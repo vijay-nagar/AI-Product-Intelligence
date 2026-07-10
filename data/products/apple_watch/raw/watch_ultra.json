@@ -1,0 +1,72 @@
+{
+    "name": "Apple Watch Ultra",
+    "url": "https://www.gsmarena.com/apple_watch_ultra-11827.php",
+    "source": "gsmarena",
+    "scraped_at": "2026-07-09T11:32:53.436007Z",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+            "": "1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+            "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+            "Speed": "HSPA, LTE"
+        },
+        "Launch": {
+            "Announced": "2022, September 07",
+            "Status": "Available. Released 2022, September 23"
+        },
+        "Body": {
+            "Dimensions": "49 x 44 x 14.4 mm (1.93 x 1.73 x 0.57 in)",
+            "Weight": "61.3 g (2.15 oz)",
+            "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame",
+            "SIM": "eSIM",
+            "": "IP6X certified \r\n100m water resistant (WR100)\r\n40m swimproof/diving (EN13319)\r\nMIL-STD-810H compliant\r\nECG certified (region dependent SW application; HW available on all models)"
+        },
+        "Display": {
+            "Type": "Retina LTPO OLED, 2000 nits (peak)",
+            "Size": "1.92 inches",
+            "Resolution": "502 x 410 pixels (~338 ppi density)",
+            "Protection": "Sapphire crystal glass"
+        },
+        "Platform": {
+            "OS": "watchOS 9.0, upgradable to watchOS 26.5",
+            "Chipset": "Apple S8",
+            "CPU": "Dual-core",
+            "GPU": "PowerVR"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32GB"
+        },
+        "Camera": {
+            "": "No"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes, with dual speakers (86-decibel)",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "No"
+        },
+        "Features": {
+            "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body), temperature (water)",
+            "": "Temperature sensing (0.01˚ accuracy)\r\nDepth gauge (±1m accuracy)\r\nUltra Wideband (UWB) support"
+        },
+        "Battery": {
+            "Type": "Li-Ion 542 mAh",
+            "Charging": "Wireless, 0-80% in 60 min"
+        },
+        "Misc": {
+            "Colors": "Titanium",
+            "Models": "A2684, A2622, A2859, watch6,18",
+            "SAR EU": "0.35 W/kg (head)     0.60 W/kg (body)",
+            "Price": "About 550 EUR"
+        }
+    }
+}

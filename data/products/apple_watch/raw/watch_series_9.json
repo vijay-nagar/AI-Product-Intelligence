@@ -1,0 +1,73 @@
+{
+    "name": "Apple Watch Series 9",
+    "url": "https://www.gsmarena.com/apple_watch_series_9-12561.php",
+    "source": "gsmarena",
+    "scraped_at": "2026-07-09T11:26:10.974579Z",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+            "": "1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+            "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+            "Speed": "HSPA, LTE"
+        },
+        "Launch": {
+            "Announced": "2023, September 12",
+            "Status": "Available. Released 2023, September 22"
+        },
+        "Body": {
+            "Dimensions": "45 x 38 x 10.7 mm (1.77 x 1.50 x 0.42 in)",
+            "Weight": "42.3 g (41mm), 51.5 g (45mm) (1.48 oz)",
+            "Build": "Sapphire crystal front, ceramic/sapphire crystal back, stainless steel frame",
+            "SIM": "eSIM",
+            "": "IP6X certified\r\n50m water resistant\r\nECG certified (region dependent SW application; HW available on all models)"
+        },
+        "Display": {
+            "Type": "Retina LTPO OLED, 2000 nits (peak)",
+            "Size": "1.9 inches",
+            "Resolution": "484 x 396 pixels (~326 ppi density)",
+            "Protection": "Sapphire crystal glass"
+        },
+        "Platform": {
+            "OS": "watchOS 10, up to watchOS 26.5, planned upgrade to watchOS 27",
+            "Chipset": "Apple S9",
+            "CPU": "Dual-core",
+            "GPU": "PowerVR"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "64GB"
+        },
+        "Camera": {
+            "": "No"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "No"
+        },
+        "Features": {
+            "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body)",
+            "": "Temperature sensing (0.01˚ accuracy)\r\nUltra Wideband (UWB) support (gen2 chip)"
+        },
+        "Battery": {
+            "Type": "Li-Ion 308 mAh",
+            "Charging": "Wireless, 0-80% in 45 min"
+        },
+        "Misc": {
+            "Colors": "Graphite, Silver, Gold, Red",
+            "Models": "A2982, A2984, A2983, A2985, Watch7,3, Watch7,4",
+            "SAR": "1.02 W/kg (head)",
+            "SAR EU": "0.64 W/kg (head)",
+            "Price": "About 630 EUR"
+        }
+    }
+}

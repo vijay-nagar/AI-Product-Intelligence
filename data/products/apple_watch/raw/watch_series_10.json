@@ -1,0 +1,74 @@
+{
+    "name": "Apple Watch Series 10",
+    "url": "https://www.gsmarena.com/apple_watch_series_10-13318.php",
+    "source": "gsmarena",
+    "scraped_at": "2026-07-09T11:16:46.693614Z",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+            "": "1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+            "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+            "Speed": "HSPA, LTE"
+        },
+        "Launch": {
+            "Announced": "2024, September 09",
+            "Status": "Available. Released 2024, September 20"
+        },
+        "Body": {
+            "Dimensions": "46 x 39 x 9.7 mm (1.81 x 1.54 x 0.38 in)",
+            "Weight": "34.4 g (42mm), 41.7 g (46mm) (1.48 oz)",
+            "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame (grade 5)",
+            "SIM": "eSIM",
+            "": "IP6X certified\r\n50m water resistant\r\nECG certified (region dependent SW application; HW available on all models)\r\nDepth gauge to 6m"
+        },
+        "Display": {
+            "Type": "Retina LTPO3 OLED, 2000 nits (peak)",
+            "Size": "1.96 inches",
+            "Resolution": "496 x 416 pixels (~330 ppi density)",
+            "Protection": "Sapphire crystal glass",
+            "": "Wide-angle OLED"
+        },
+        "Platform": {
+            "OS": "watchOS 11, up to watchOS 26.5, planned upgrade to watchOS 27",
+            "Chipset": "Apple S10",
+            "CPU": "Dual-core",
+            "GPU": "PowerVR"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "64GB"
+        },
+        "Camera": {
+            "": "No"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "No"
+        },
+        "Features": {
+            "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body), temperature (water)",
+            "": "Temperature sensing (0.01˚ accuracy)\r\nUltra Wideband (UWB) support (gen2 chip)\r\nMedia playback"
+        },
+        "Battery": {
+            "Type": "Li-Ion 327 mAh",
+            "Charging": "Wireless, 0-80% in 30 min"
+        },
+        "Misc": {
+            "Colors": "Slate, Gold, Natural",
+            "Models": "A3001, A3002, A3003, A3206",
+            "SAR": "1.08 W/kg (head)",
+            "SAR EU": "0.26 W/kg (head)     0.83 W/kg (body)",
+            "Price": "€ 499.00"
+        }
+    }
+}

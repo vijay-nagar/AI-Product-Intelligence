@@ -1,0 +1,72 @@
+{
+    "name": "Apple Watch Series 4",
+    "url": "https://www.gsmarena.com/apple_watch_series_4-9321.php",
+    "source": "gsmarena",
+    "scraped_at": "2026-07-09T12:10:49.188361Z",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100 / 800 - Europe, Australia",
+            "": "1, 3, 39, 40, 41 - China",
+            "4G bands": "1, 3, 5, 7, 8, 18, 19, 20, 26 - Europe, Australia",
+            "Speed": "HSPA, LTE"
+        },
+        "Launch": {
+            "Announced": "2018, September. Released 2018, September",
+            "Status": "Discontinued"
+        },
+        "Body": {
+            "Dimensions": "44 x 38 x 10.7 mm (1.73 x 1.50 x 0.42 in)",
+            "Weight": "48 g (1.69 oz)",
+            "Build": "Glass front (Sapphire crystal), ceramic/sapphire crystal back, stainless steel frame",
+            "SIM": "eSIM",
+            "": "50m water resistant\r\nECG certified (region dependent SW application; HW available on all models)"
+        },
+        "Display": {
+            "Type": "Retina LTPO OLED, 1000 nits (peak)",
+            "Size": "1.78 inches",
+            "Resolution": "448 x 368 pixels (~326 ppi density)",
+            "Protection": "Sapphire crystal glass",
+            "": "3D Touch display"
+        },
+        "Platform": {
+            "OS": "watchOS 5.0, upgradable to watchOS 10.6.2",
+            "Chipset": "Apple S4",
+            "CPU": "Dual-core",
+            "GPU": "PowerVR"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16GB 1GB RAM"
+        },
+        "Camera": {
+            "": "No"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 b/g/n",
+            "Bluetooth": "5.0, A2DP, LE",
+            "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "No"
+        },
+        "Features": {
+            "Sensors": "Accelerometer, gyro, heart rate, barometer",
+            "": "Natural language commands and dictation (talking mode)"
+        },
+        "Battery": {
+            "Type": "Li-Ion 292 mAh (1.12 Wh), non-removable",
+            "Charging": "Wireless"
+        },
+        "Misc": {
+            "Colors": "Space Black, Silver, Gold",
+            "Models": "A1975, A1976, A2007, A2008",
+            "Price": "About 700 EUR"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Apple Watch SE 3",
+    "url": "https://www.gsmarena.com/apple_watch_se_3-14133.php",
+    "source": "gsmarena",
+    "scraped_at": "2026-07-09T11:07:06.495505Z",
+    "specifications": {
+        "Network": {
+            "Technology": "GSM / HSPA / LTE / 5G",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+            "": "1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+            "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+            "5G bands": "SA/NSA",
+            "Speed": "HSPA, LTE, 5G"
+        },
+        "Launch": {
+            "Announced": "2025, September 09",
+            "Status": "Available. Released 2025, September 19"
+        },
+        "Body": {
+            "Dimensions": "44 x 38 x 10.7 mm (1.73 x 1.50 x 0.42 in)",
+            "Weight": "26.4 g or 33 g (1.16 oz)",
+            "Build": "Glass front, plastic/sapphire crystal back, aluminum frame",
+            "SIM": "eSIM",
+            "": "50m water resistant"
+        },
+        "Display": {
+            "Type": "Retina LTPO OLED, 1000 nits (peak)",
+            "Size": "1.78 inches",
+            "Resolution": "448 x 368 pixels (~326 ppi density)",
+            "Protection": "Ion-X strengthened glass (2025 gen)"
+        },
+        "Platform": {
+            "OS": "watchOS 26, up to watchOS 26.5, planned upgrade to watchOS 27",
+            "Chipset": "Apple S10",
+            "CPU": "Dual-core",
+            "GPU": "PowerVR"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "64GB"
+        },
+        "Camera": {
+            "": "No"
+        },
+        "Sound": {
+            "Loudspeaker": "Yes",
+            "3.5mm jack": "No"
+        },
+        "Comms": {
+            "WLAN": "Wi-Fi 802.11 b/g/n",
+            "Bluetooth": "5.3, A2DP, LE",
+            "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "No"
+        },
+        "Features": {
+            "Sensors": "Accelerometer, gyro, heart rate (2nd gen), barometer, always-on altimeter, compass, temperature (body)",
+            "": "Media playback"
+        },
+        "Battery": {
+            "Type": "Li-Ion",
+            "Charging": "Wireless, 80% in 45 min"
+        },
+        "Misc": {
+            "Colors": "Midnight, Starlight",
+            "Models": "A3325, A3324, A3328, A3326, A3327, A3329, A3391, A3392",
+            "SAR": "1.18 W/kg (head)",
+            "SAR EU": "0.42 W/kg (head)",
+            "Price": "€ 244.00"
+        }
+    }
+}
