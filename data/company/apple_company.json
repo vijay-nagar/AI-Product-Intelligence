@@ -1,19 +1,24 @@
 {
-    "company_name": "Apple Inc.",
-    "founded_year": 1976,
-    "founders": [
-        "Steve Jobs",
-        "Steve Wozniak",
-        "Ronald Wayne"
-    ],
-    "headquarters": "Cupertino, California, USA",
-    "industry": "Consumer Electronics",
-    "website": "https://www.apple.com",
-    "business_segments": [
-        "iPhone",
-        "Mac",
-        "iPad",
-        "Wearables",
-        "Services"
-    ]
+  "company_name": "Apple Inc.",
+  "ticker": "AAPL",
+  "founded": 1976,
+  "founders": [
+    "Steve Jobs",
+    "Steve Wozniak",
+    "Ronald Wayne"
+  ],
+  "headquarters": {
+    "city": "Cupertino",
+    "state": "California",
+    "country": "United States"
+  },
+  "industry": "Consumer Electronics",
+  "website": "https://www.apple.com",
+  "major_business_segments": [
+    "iPhone",
+    "Mac",
+    "iPad",
+    "Wearables",
+    "Services"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "product_name": "",
+  "category": "",
+  "launch_date": "",
+
+  "pricing": {},
+
+  "hardware": {
+    "chip": "",
+    "ram": "",
+    "storage_options": []
+  },
+
+  "display": {
+    "size": "",
+    "technology": "",
+    "refresh_rate": ""
+  },
+
+  "camera": {},
+
+  "battery": {},
+
+  "software": {
+    "operating_system": "",
+    "apple_intelligence_supported": false
+  },
+
+  "colors": [],
+  "source": ""
+}
