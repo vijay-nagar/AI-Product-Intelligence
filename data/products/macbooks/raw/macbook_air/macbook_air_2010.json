@@ -1,0 +1,115 @@
+{
+    "product_name": "MacBook Air",
+    "generation": "3rd Generation",
+    "model_numbers": ["A1370", "A1369"],
+    "release_date": "2010-10-20",
+    "release_year": 2010,
+    "status": "Discontinued",
+
+    "processor": "Intel Core 2 Duo SL9400/SL9600",
+    "cpu": "Dual-Core Intel Core 2 Duo",
+    "gpu": "NVIDIA GeForce 320M",
+    "ram": "2GB DDR3",
+    "storage_options": [
+        "64GB SSD",
+        "128GB SSD",
+        "256GB SSD"
+    ],
+
+    "operating_system": "Mac OS X Snow Leopard 10.6.4",
+    "current_supported_os": "macOS High Sierra 10.13.6",
+
+    "display": {
+        "output_resolution": "1366x768",
+        "supported_resolutions": [
+            "1366x768",
+            "1440x900"
+        ],
+        "refresh_rates": ["60Hz"],
+        "aspect_ratio": "16:9",
+        "display_technologies": [
+            "LED-backlit Display"
+        ]
+    },
+
+    "video_features": [
+        "Mini DisplayPort",
+        "External Display Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Microphone",
+        "Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 2.1 + EDR",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": false
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 2.0",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe"
+    },
+
+    "smart_home_features": [],
+    "gaming_features": [
+        "NVIDIA GeForce 320M"
+    ],
+
+    "supported_services": [
+        "iTunes",
+        "iPhoto",
+        "FaceTime"
+    ],
+
+    "dimensions_mm": {
+        "height": 17,
+        "width": 300,
+        "depth": 192
+    },
+
+    "weight_grams": 1060,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "in_the_box": [
+        "MacBook Air",
+        "45W MagSafe Adapter",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "first_flash_storage_standard": true,
+        "first_11_inch_air": true,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

@@ -1,0 +1,141 @@
+{
+    "product_name": "MacBook Pro 13-inch Retina",
+    "generation": "1st Retina Generation",
+    "model_numbers": [
+        "A1425"
+    ],
+    "release_date": "2012-10-23",
+    "release_year": 2012,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i5-3210M / Core i7-3520M",
+    "cpu": "Dual-Core Intel Core i5/i7 (Ivy Bridge)",
+    "gpu": "Intel HD Graphics 4000",
+    "ram": "8GB DDR3 1600MHz",
+    "storage_options": [
+        "128GB SSD",
+        "256GB SSD",
+        "512GB SSD",
+        "768GB SSD"
+    ],
+
+    "operating_system": "OS X Mountain Lion 10.8.2",
+    "current_supported_os": "macOS Catalina 10.15.7",
+
+    "display": {
+        "output_resolution": "2560x1600",
+        "supported_resolutions": [
+            "1280x800",
+            "1440x900",
+            "1680x1050",
+            "1920x1200",
+            "2560x1600"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch Retina IPS Display",
+            "LED Backlit",
+            "227 PPI"
+        ]
+    },
+
+    "video_features": [
+        "Retina Display",
+        "Dual Thunderbolt Support",
+        "HDMI Output",
+        "FaceTime HD Camera",
+        "External Display Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dual Microphones",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "1 x HDMI",
+        "usb": "2 x USB 3.0",
+        "optical_audio": true,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe 2"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "OpenGL Support",
+        "Intel Quick Sync Video",
+        "Metal Support"
+    ],
+
+    "supported_services": [
+        "FaceTime",
+        "AirDrop",
+        "AirPlay",
+        "iCloud",
+        "iTunes",
+        "Game Center"
+    ],
+
+    "dimensions_mm": {
+        "height": 19,
+        "width": 314,
+        "depth": 219
+    },
+
+    "weight_grams": 1620,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "74Wh",
+        "battery_life": "7 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro Retina",
+        "60W MagSafe 2 Power Adapter",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "first_retina_macbook_pro_13": true,
+        "first_ssd_only_macbook_pro_13": true,
+        "first_hdmi_macbook_pro_13": true,
+        "dual_thunderbolt_ports": true,
+        "retina_display": true,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

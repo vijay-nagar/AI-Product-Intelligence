@@ -1,0 +1,19 @@
+{
+    "product_name": "AirTag",
+    "generation": "1st Generation",
+    "release_year": 2021,
+    "status": "Current",
+    "connectivity": [
+        "Bluetooth LE",
+        "Ultra Wideband",
+        "NFC"
+    ],
+    "features": [
+        "Precision Finding",
+        "Find My Network",
+        "Lost Mode"
+    ],
+    "weight_grams": 11,
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

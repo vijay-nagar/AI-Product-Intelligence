@@ -1,0 +1,15 @@
+{
+    "product_name": "Apple Pencil USB-C",
+    "generation": "USB-C",
+    "release_year": 2023,
+    "status": "Current",
+    "features": [
+        "Tilt Support",
+        "USB-C Charging",
+        "Hover Support"
+    ],
+    "colors": ["White"],
+    "weight_grams": 20,
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

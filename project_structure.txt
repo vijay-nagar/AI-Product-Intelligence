@@ -1,0 +1,120 @@
+.
+├── analytics
+│   └── recommendation_engine.py
+├── api
+│   └── main.py
+├── app
+├── configs
+├── data
+│   ├── acquisitions
+│   ├── company
+│   │   └── apple_company.json
+│   ├── finance
+│   ├── future_projects
+│   ├── history
+│   ├── processed
+│   ├── products
+│   │   ├── accessories
+│   │   ├── airpods
+│   │   │   └── raw
+│   │   ├── apple_devices_registry.json
+│   │   ├── apple_tv
+│   │   ├── apple_watch
+│   │   │   └── raw
+│   │   ├── homepod
+│   │   ├── ipads
+│   │   │   └── raw
+│   │   ├── iphones
+│   │   │   ├── iphone_17_pro.json
+│   │   │   ├── processed
+│   │   │   └── raw
+│   │   ├── macbooks
+│   │   │   └── raw
+│   │   ├── others
+│   │   │   └── raw
+│   │   ├── product_registry.json
+│   │   ├── scraper_checkpoint.json
+│   │   └── vision_pro
+│   ├── raw
+│   ├── reviews
+│   ├── services
+│   ├── stores
+│   └── support
+├── docs
+├── embeddings
+│   └── create_embeddings.py
+├── llm
+│   └── ollama_client.py
+├── logs
+├── notebooks
+├── preprocessing
+│   ├── chunker.py
+│   ├── cleaner.py
+│   ├── normalize_iphone.py
+│   └── validator.py
+├── project_structure.txt
+├── rag
+│   ├── pipeline.py
+│   └── retriever.py
+├── README.md
+├── requirements.txt
+├── schemas
+│   ├── company_schema.json
+│   ├── history_schema.json
+│   └── product_schema.json
+├── scraper
+│   ├── company
+│   │   └── company_scraper.py
+│   ├── finance
+│   ├── future_projects
+│   ├── history
+│   ├── investor
+│   ├── newsroom
+│   ├── patents
+│   ├── products
+│   │   ├── __pycache__
+│   │   │   ├── iphone_saver.cpython-311.pyc
+│   │   │   ├── iphone_saver.cpython-314.pyc
+│   │   │   ├── iphone_scraper.cpython-311.pyc
+│   │   │   └── iphone_scraper.cpython-314.pyc
+│   │   ├── apple_product_scraper.py
+│   │   ├── bulk_scraper.py
+│   │   ├── discover_products.py
+│   │   ├── iphone_discovery.py
+│   │   ├── iphone_parser.py
+│   │   ├── iphone_saver.py
+│   │   ├── iphone_scraper.py
+│   │   └── product_discovery.py
+│   ├── reviews
+│   ├── services
+│   ├── stores
+│   └── support
+├── tests
+├── vector_db
+│   └── build_index.py
+└── venv
+    ├── bin
+    │   ├── activate
+    │   ├── activate.csh
+    │   ├── activate.fish
+    │   ├── Activate.ps1
+    │   ├── dotenv
+    │   ├── f2py
+    │   ├── idna
+    │   ├── normalizer
+    │   ├── numpy-config
+    │   ├── pip
+    │   ├── pip3
+    │   ├── pip3.11
+    │   ├── python -> python3.11
+    │   ├── python3 -> python3.11
+    │   ├── python3.11 -> /usr/local/opt/python@3.11/bin/python3.11
+    │   └── wsdump
+    ├── include
+    │   └── python3.11
+    ├── lib
+    │   └── python3.11
+    │       └── site-packages
+    └── pyvenv.cfg
+
+66 directories, 52 files

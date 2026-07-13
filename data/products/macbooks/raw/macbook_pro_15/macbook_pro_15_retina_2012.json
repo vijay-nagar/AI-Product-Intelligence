@@ -1,0 +1,139 @@
+{
+    "product_name": "MacBook Pro 15-inch Retina",
+    "generation": "1st Retina Generation",
+    "model_numbers": [
+        "A1398"
+    ],
+    "release_date": "2012-06-11",
+    "release_year": 2012,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i7-3615QM / i7-3720QM",
+    "cpu": "Quad-Core Intel Core i7 (Ivy Bridge)",
+    "gpu": "Intel HD Graphics 4000 + NVIDIA GeForce GT 650M",
+    "ram": "8GB DDR3L 1600MHz",
+    "storage_options": [
+        "256GB SSD",
+        "512GB SSD",
+        "768GB SSD"
+    ],
+
+    "operating_system": "OS X Mountain Lion",
+    "current_supported_os": "macOS Catalina 10.15.7",
+
+    "display": {
+        "output_resolution": "2880x1800",
+        "supported_resolutions": [
+            "1440x900",
+            "1680x1050",
+            "1920x1200",
+            "2880x1800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "15.4-inch Retina IPS Display",
+            "LED Backlit",
+            "220 PPI"
+        ]
+    },
+
+    "video_features": [
+        "Retina Display",
+        "Dual Thunderbolt",
+        "HDMI Output",
+        "FaceTime HD Camera",
+        "External Display Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dual Microphones",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "1 x HDMI",
+        "usb": "2 x USB 3.0",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe 2"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "NVIDIA GeForce GT 650M",
+        "OpenGL Support",
+        "Retina Gaming Support"
+    ],
+
+    "supported_services": [
+        "FaceTime",
+        "AirDrop",
+        "AirPlay",
+        "iCloud",
+        "iTunes",
+        "Game Center"
+    ],
+
+    "dimensions_mm": {
+        "height": 18,
+        "width": 359,
+        "depth": 247
+    },
+
+    "weight_grams": 2020,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "95Wh",
+        "battery_life": "7 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro Retina",
+        "85W MagSafe 2 Power Adapter",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "first_retina_macbook": true,
+        "ssd_only_design": true,
+        "hdmi_port": true,
+        "dual_thunderbolt": true,
+        "retina_display": true,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

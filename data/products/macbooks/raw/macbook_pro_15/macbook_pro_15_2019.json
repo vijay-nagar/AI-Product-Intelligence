@@ -1,0 +1,101 @@
+{
+    "product_name": "MacBook Pro 15-inch",
+    "generation": "Coffee Lake Refresh Generation",
+    "model_numbers": [
+        "A1990"
+    ],
+    "release_date": "2019-05-21",
+    "release_year": 2019,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i7-9750H / Intel Core i9-9880H / Intel Core i9-9980HK",
+    "cpu": "6-Core and 8-Core Intel Core i7/i9",
+    "gpu": "AMD Radeon Pro 555X / 560X / Vega 16 / Vega 20",
+    "ram": "16GB / 32GB DDR4 2400MHz",
+    "storage_options": [
+        "256GB SSD",
+        "512GB SSD",
+        "1TB SSD",
+        "2TB SSD",
+        "4TB SSD"
+    ],
+
+    "operating_system": "macOS Mojave",
+    "current_supported_os": "macOS Sequoia",
+
+    "display": {
+        "output_resolution": "2880x1800",
+        "supported_resolutions": [
+            "1440x900",
+            "1680x1050",
+            "1920x1200",
+            "2880x1800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "Retina IPS Display",
+            "True Tone",
+            "P3 Wide Color",
+            "500 Nits Brightness"
+        ]
+    },
+
+    "video_features": [
+        "Retina Display",
+        "True Tone",
+        "5K External Display Support",
+        "Thunderbolt 3"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Wide Stereo Sound",
+        "Three Microphone Array"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac Wi-Fi",
+        "bluetooth": "Bluetooth 5.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "usb": "4 x Thunderbolt 3 / USB-C",
+        "hdmi": "",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "dimensions_mm": {
+        "height": 15.5,
+        "width": 349.3,
+        "depth": 240.7
+    },
+
+    "weight_grams": 1830,
+
+    "power": {
+        "battery_capacity": "83.6Wh",
+        "battery_life": "10 Hours",
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "historical_features": {
+        "eight_core_cpu": true,
+        "vega_graphics": true,
+        "improved_thermals": true,
+        "butterfly_keyboard_gen_4": true,
+        "t2_chip": true,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

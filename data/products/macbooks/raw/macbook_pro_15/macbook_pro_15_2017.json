@@ -1,0 +1,112 @@
+{
+    "product_name": "MacBook Pro 15-inch",
+    "generation": "Kaby Lake Generation",
+    "model_numbers": [
+        "A1707"
+    ],
+    "release_date": "2017-06-05",
+    "release_year": 2017,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i7-7700HQ / i7-7820HQ",
+    "cpu": "Quad-Core Intel Core i7 (Kaby Lake)",
+    "gpu": "AMD Radeon Pro 555 / 560 + Intel HD Graphics 630",
+    "ram": "16GB LPDDR3 2133MHz",
+    "storage_options": [
+        "256GB SSD",
+        "512GB SSD",
+        "1TB SSD",
+        "2TB SSD"
+    ],
+
+    "operating_system": "macOS Sierra",
+    "current_supported_os": "macOS Sequoia",
+
+    "display": {
+        "output_resolution": "2880x1800",
+        "supported_resolutions": [
+            "1440x900",
+            "1680x1050",
+            "1920x1200",
+            "2880x1800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "Retina IPS Display",
+            "P3 Wide Color",
+            "500 Nits Brightness",
+            "LED Backlit"
+        ]
+    },
+
+    "video_features": [
+        "Retina Display",
+        "Thunderbolt 3",
+        "5K External Display Support",
+        "P3 Color Support",
+        "FaceTime HD Camera"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Wide Dynamic Range",
+        "Three Microphone Array",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "HEVC",
+        "AAC",
+        "ALAC",
+        "FLAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac Wi-Fi",
+        "bluetooth": "Bluetooth 4.2",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "4 x Thunderbolt 3 / USB-C",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "dimensions_mm": {
+        "height": 15.5,
+        "width": 349.3,
+        "depth": 240.7
+    },
+
+    "weight_grams": 1830,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "76Wh",
+        "battery_life": "10 Hours"
+    },
+
+    "historical_features": {
+        "usb_c": true,
+        "thunderbolt_3": true,
+        "touch_bar": true,
+        "touch_id": true,
+        "butterfly_keyboard_gen_2": true,
+        "retina_display": true,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

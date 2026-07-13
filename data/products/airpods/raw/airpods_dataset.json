@@ -1,0 +1,233 @@
+[
+    {
+        "name": "AirPods (1st Generation)",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.899591Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2016-12-13"
+            },
+            "Audio": {
+                "Chip": "Apple W1",
+                "Active Noise Cancellation": "No"
+            },
+            "Battery": {
+                "Listening Time": "Up to 5 hours",
+                "Case Battery": "24 hours"
+            },
+            "Connectivity": {
+                "Bluetooth": "4.2"
+            },
+            "Features": {
+                "Siri": "Yes",
+                "Wireless Charging": "No"
+            }
+        }
+    },
+    {
+        "name": "AirPods (2nd Generation)",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.899703Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2019-03-20"
+            },
+            "Audio": {
+                "Chip": "Apple H1",
+                "Active Noise Cancellation": "No"
+            },
+            "Battery": {
+                "Listening Time": "Up to 5 hours",
+                "Case Battery": "24 hours"
+            },
+            "Connectivity": {
+                "Bluetooth": "5.0"
+            },
+            "Features": {
+                "Siri": "Always-on Hey Siri",
+                "Wireless Charging": "Optional Case"
+            }
+        }
+    },
+    {
+        "name": "AirPods Pro (1st Generation)",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.899796Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2019-10-30"
+            },
+            "Audio": {
+                "Chip": "Apple H1",
+                "Active Noise Cancellation": "Yes",
+                "Transparency Mode": "Yes"
+            },
+            "Battery": {
+                "Listening Time": "4.5 hours with ANC",
+                "Case Battery": "24 hours"
+            },
+            "Connectivity": {
+                "Bluetooth": "5.0"
+            },
+            "Features": {
+                "Spatial Audio": "Supported",
+                "Water Resistance": "IPX4"
+            }
+        }
+    },
+    {
+        "name": "AirPods Max",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.899849Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2020-12-15"
+            },
+            "Audio": {
+                "Chip": "Apple H1 (dual)",
+                "Active Noise Cancellation": "Yes",
+                "Transparency Mode": "Yes"
+            },
+            "Battery": {
+                "Listening Time": "20 hours with ANC"
+            },
+            "Connectivity": {
+                "Bluetooth": "5.0"
+            },
+            "Features": {
+                "Spatial Audio": "Supported",
+                "USB-C": "No"
+            }
+        }
+    },
+    {
+        "name": "AirPods (3rd Generation)",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.899885Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2021-10-26"
+            },
+            "Audio": {
+                "Chip": "Apple H1",
+                "Spatial Audio": "Yes"
+            },
+            "Battery": {
+                "Listening Time": "6 hours",
+                "Case Battery": "30 hours"
+            },
+            "Connectivity": {
+                "Bluetooth": "5.0"
+            },
+            "Features": {
+                "Water Resistance": "IPX4",
+                "Wireless Charging": "Yes"
+            }
+        }
+    },
+    {
+        "name": "AirPods Pro (2nd Generation)",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.899944Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2022-09-23"
+            },
+            "Audio": {
+                "Chip": "Apple H2",
+                "Active Noise Cancellation": "Improved"
+            },
+            "Battery": {
+                "Listening Time": "6 hours with ANC",
+                "Case Battery": "30 hours"
+            },
+            "Connectivity": {
+                "Bluetooth": "5.3"
+            },
+            "Features": {
+                "USB-C": "Later revision",
+                "Adaptive Audio": "Yes"
+            }
+        }
+    },
+    {
+        "name": "AirPods (4th Generation)",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.900020Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2024-09-20"
+            },
+            "Audio": {
+                "Chip": "Apple H2"
+            },
+            "Battery": {
+                "Listening Time": "Up to 5 hours"
+            },
+            "Connectivity": {
+                "Bluetooth": "5.3"
+            },
+            "Features": {
+                "USB-C": "Yes",
+                "ANC Variant": "Available"
+            }
+        }
+    },
+    {
+        "name": "AirPods Pro (3rd Generation)",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.900115Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2025-09-19"
+            },
+            "Audio": {
+                "Chip": "Apple H3",
+                "Active Noise Cancellation": "Next Generation"
+            },
+            "Battery": {
+                "Listening Time": "Estimated 7 hours"
+            },
+            "Connectivity": {
+                "Bluetooth": "5.4"
+            },
+            "Features": {
+                "Adaptive Audio": "Yes",
+                "USB-C": "Yes"
+            }
+        }
+    },
+    {
+        "name": "AirPods Max (2nd Generation)",
+        "url": null,
+        "source": "manual_registry",
+        "scraped_at": "2026-07-10T07:04:07.900283Z",
+        "specifications": {
+            "Launch": {
+                "Released": "2026-03"
+            },
+            "Audio": {
+                "Chip": "Apple H3",
+                "Active Noise Cancellation": "Yes"
+            },
+            "Battery": {
+                "Listening Time": "Estimated 25 hours"
+            },
+            "Connectivity": {
+                "Bluetooth": "5.4"
+            },
+            "Features": {
+                "USB-C": "Yes",
+                "Spatial Audio": "Improved"
+            }
+        }
+    }
+]

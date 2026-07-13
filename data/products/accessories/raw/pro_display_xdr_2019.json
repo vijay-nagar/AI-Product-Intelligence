@@ -1,0 +1,51 @@
+{
+    "product_name": "Pro Display XDR",
+    "category": "Display",
+    "generation": "1st Generation",
+    "model_numbers": ["A1999"],
+    "release_date": "2019-12-10",
+    "release_year": 2019,
+    "status": "Current",
+
+    "display": {
+        "size": "32-inch",
+        "resolution": "6016 x 3384",
+        "type": "Retina 6K LCD",
+        "brightness": "1600 nits",
+        "sustained_brightness": "1000 nits",
+        "refresh_rate": "60Hz",
+        "contrast_ratio": "1000000:1",
+        "color_gamut": "P3 Wide Color",
+        "true_tone": false
+    },
+
+    "connectivity": [
+        "Thunderbolt 3"
+    ],
+
+    "features": [
+        "Extreme Dynamic Range",
+        "Reference Modes",
+        "Nano Texture Glass Option"
+    ],
+
+    "ports": [
+        "1 x Thunderbolt 3"
+    ],
+
+    "dimensions_mm": {
+        "height": 718,
+        "width": 649,
+        "depth": 27
+    },
+
+    "weight_grams": 7100,
+
+    "in_the_box": [
+        "Pro Display XDR",
+        "Thunderbolt Cable"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

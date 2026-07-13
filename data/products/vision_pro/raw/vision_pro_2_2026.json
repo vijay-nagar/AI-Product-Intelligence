@@ -1,0 +1,61 @@
+{
+    "product_name": "Apple Vision Pro 2",
+    "model": "2nd Generation",
+    "release_year": 2026,
+    "status": "Rumored",
+
+    "chipset": "Apple M5",
+    "coprocessor": "Apple R2",
+
+    "operating_system": "visionOS 3",
+
+    "display_type": "Micro-OLED",
+    "display_resolution_per_eye": "4K+",
+    "refresh_rate": "90Hz to 120Hz",
+
+    "storage_options": [
+        "512GB",
+        "1TB",
+        "2TB"
+    ],
+
+    "tracking_features": [
+        "Eye Tracking",
+        "Hand Tracking",
+        "Gesture Tracking",
+        "Voice Control"
+    ],
+
+    "camera_system": [
+        "Advanced LiDAR",
+        "Improved Passthrough Cameras"
+    ],
+
+    "authentication": [
+        "Optic ID"
+    ],
+
+    "audio_features": [
+        "Spatial Audio",
+        "Adaptive Audio"
+    ],
+
+    "connectivity": [
+        "Wi-Fi 7",
+        "Bluetooth 5.4"
+    ],
+
+    "battery_life": "Up to 3 hours",
+
+    "supported_accessories": [
+        "Magic Keyboard",
+        "Magic Trackpad",
+        "AirPods Pro"
+    ],
+
+    "estimated_price_usd": 3499,
+
+    "source": "Industry Rumors",
+    "scraped_at": "2026-07-11T10:00:00",
+    "data_version": "1.0"
+}

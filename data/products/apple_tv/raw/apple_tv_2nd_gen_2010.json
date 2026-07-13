@@ -1,0 +1,31 @@
+{
+    "product_name": "Apple TV",
+    "generation": "2nd Generation",
+    "model_numbers": ["A1378"],
+    "release_year": 2010,
+    "processor": "Apple A4",
+    "gpu": "PowerVR SGX535",
+    "ram": "256MB",
+    "storage_options": ["8GB Flash"],
+    "display": {
+        "output_resolution": "720p",
+        "supported_resolutions": ["480p","576p","720p"],
+        "refresh_rates": ["50Hz","60Hz"],
+        "aspect_ratio": "16:9",
+        "display_technologies": []
+    },
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 2.1",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+    "ports": {
+        "hdmi": "HDMI 1.3",
+        "usb": "Micro USB",
+        "optical_audio": true,
+        "ethernet": true
+    }
+}

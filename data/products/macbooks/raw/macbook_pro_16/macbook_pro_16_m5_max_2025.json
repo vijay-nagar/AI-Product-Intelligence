@@ -1,0 +1,177 @@
+{
+    "product_name": "MacBook Pro 16-inch",
+    "generation": "Apple Silicon M5 Max Generation",
+    "model_numbers": [
+        "A3350"
+    ],
+    "release_date": "2025-10-15",
+    "release_year": 2025,
+    "status": "Active",
+
+    "processor": "Apple M5 Max",
+    "cpu": "18-Core CPU",
+    "gpu": "32-Core GPU / 40-Core GPU",
+    "ram": "36GB / 48GB / 64GB / 128GB Unified Memory",
+    "storage_options": [
+        "1TB SSD",
+        "2TB SSD",
+        "4TB SSD",
+        "8TB SSD"
+    ],
+
+    "price": {
+        "usa_starting_price_usd": 3899,
+        "india_starting_price_inr": 339900,
+        "top_configuration_estimated_inr": 699900
+    },
+
+    "operating_system": "macOS Tahoe",
+    "current_supported_os": "macOS Tahoe",
+
+    "display": {
+        "output_resolution": "3456x2234",
+        "supported_resolutions": [
+            "1728x1117",
+            "2234x1440",
+            "3024x1964",
+            "3456x2234"
+        ],
+        "refresh_rates": [
+            "24Hz",
+            "30Hz",
+            "48Hz",
+            "60Hz",
+            "120Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "Liquid Retina XDR",
+            "Mini-LED",
+            "ProMotion 120Hz",
+            "P3 Wide Color",
+            "True Tone",
+            "1000 Nits Sustained Brightness",
+            "1600 Nits Peak HDR Brightness",
+            "254 PPI"
+        ]
+    },
+
+    "video_features": [
+        "Hardware Ray Tracing",
+        "Dynamic Caching",
+        "AV1 Decode",
+        "AV1 Encode",
+        "ProRes Encode Engine",
+        "ProRes Decode Engine",
+        "8K External Display Support",
+        "Multiple 6K Display Support",
+        "12MP Center Stage Camera"
+    ],
+
+    "audio_features": [
+        "Six Speaker High Fidelity Audio",
+        "Spatial Audio",
+        "Dolby Atmos",
+        "Force Cancelling Woofers",
+        "Studio Quality Three Microphone Array",
+        "High Impedance Headphone Support"
+    ],
+
+    "supported_codecs": [
+        "AV1",
+        "H.264",
+        "HEVC",
+        "ProRes",
+        "ProRes RAW",
+        "AAC",
+        "ALAC",
+        "FLAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "Wi-Fi 7",
+        "bluetooth": "Bluetooth 6",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "HDMI 2.1",
+        "usb": "3 x Thunderbolt 5 / USB-C",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": true,
+        "charging_port": "MagSafe 3"
+    },
+
+    "smart_home_features": [
+        "Siri",
+        "Hey Siri"
+    ],
+
+    "gaming_features": [
+        "Metal 3",
+        "Hardware Ray Tracing",
+        "Dynamic Caching",
+        "Game Mode",
+        "Apple Arcade",
+        "Unified Memory Architecture"
+    ],
+
+    "supported_services": [
+        "AirDrop",
+        "AirPlay",
+        "FaceTime",
+        "Apple Music",
+        "Apple TV+",
+        "Apple Arcade",
+        "iCloud",
+        "Apple Pay",
+        "Apple Intelligence"
+    ],
+
+    "dimensions_mm": {
+        "height": 16.8,
+        "width": 355.7,
+        "depth": 248.1
+    },
+
+    "weight_grams": 2160,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "100Wh",
+        "battery_life": "24 Hours Video Playback"
+    },
+
+    "in_the_box": [
+        "MacBook Pro 16-inch",
+        "140W USB-C Power Adapter",
+        "USB-C to MagSafe 3 Cable",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "m5_max": true,
+        "hardware_ray_tracing": true,
+        "dynamic_caching": true,
+        "thunderbolt_5": true,
+        "wifi_7": true,
+        "bluetooth_6": true,
+        "mini_led": true,
+        "promotion_120hz": true,
+        "apple_silicon": true,
+        "apple_intelligence_ready": true
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

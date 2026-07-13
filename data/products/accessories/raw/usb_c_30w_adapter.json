@@ -1,0 +1,52 @@
+{
+    "product_name": "Apple 30W USB-C Power Adapter",
+    "category": "Power Adapter",
+    "generation": "30W",
+    "model_numbers": ["A2164"],
+    "release_date": "2018-10-30",
+    "release_year": 2018,
+    "status": "Current",
+
+    "compatibility": [
+        "MacBook Air",
+        "iPad Pro",
+        "iPhone"
+    ],
+
+    "connectivity": [],
+    "features": [
+        "Fast Charging",
+        "USB Power Delivery",
+        "Compact Design"
+    ],
+
+    "colors": [
+        "White"
+    ],
+
+    "dimensions_mm": {
+        "height": 61,
+        "width": 61,
+        "depth": 28
+    },
+
+    "weight_grams": 110,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "maximum_output_power": "30W"
+    },
+
+    "ports": [
+        "1 x USB-C"
+    ],
+
+    "in_the_box": [
+        "30W USB-C Power Adapter",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

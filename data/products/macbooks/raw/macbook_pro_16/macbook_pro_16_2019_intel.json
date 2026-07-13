@@ -1,0 +1,158 @@
+{
+    "product_name": "MacBook Pro 16-inch",
+    "generation": "First 16-inch Generation",
+    "model_numbers": [
+        "A2141"
+    ],
+    "release_date": "2019-11-13",
+    "release_year": 2019,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i7-9750H / Intel Core i9-9880H / Intel Core i9-9980HK",
+    "cpu": "6-Core and 8-Core Intel Core i7/i9",
+    "gpu": "AMD Radeon Pro 5300M / 5500M / 5600M + Intel UHD Graphics 630",
+    "ram": "16GB / 32GB / 64GB DDR4 2666MHz",
+    "storage_options": [
+        "512GB SSD",
+        "1TB SSD",
+        "2TB SSD",
+        "4TB SSD",
+        "8TB SSD"
+    ],
+
+    "operating_system": "macOS Catalina",
+    "current_supported_os": "macOS Tahoe",
+
+    "display": {
+        "output_resolution": "3072x1920",
+        "supported_resolutions": [
+            "1536x960",
+            "1792x1120",
+            "2048x1280",
+            "3072x1920"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "16-inch Retina Display",
+            "IPS Technology",
+            "P3 Wide Color",
+            "True Tone",
+            "500 Nits Brightness",
+            "226 PPI"
+        ]
+    },
+
+    "video_features": [
+        "6K External Display Support",
+        "Thunderbolt 3",
+        "Retina Display",
+        "True Tone",
+        "AMD Radeon Pro Graphics",
+        "FaceTime HD Camera"
+    ],
+
+    "audio_features": [
+        "Six Speaker System",
+        "Force Cancelling Woofers",
+        "Studio Quality Three Microphone Array",
+        "Wide Stereo Sound",
+        "Dolby Atmos",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "HEVC",
+        "AAC",
+        "ALAC",
+        "FLAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "Wi-Fi 5 (802.11ac)",
+        "bluetooth": "Bluetooth 5.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "4 x Thunderbolt 3 / USB-C",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "Touch Bar",
+        "voice_control": true,
+        "charging_port": "USB-C"
+    },
+
+    "smart_home_features": [
+        "Siri",
+        "Hey Siri"
+    ],
+
+    "gaming_features": [
+        "Metal Support",
+        "eGPU Support",
+        "AMD Radeon Pro Graphics"
+    ],
+
+    "supported_services": [
+        "AirDrop",
+        "AirPlay",
+        "FaceTime",
+        "Apple Music",
+        "Apple TV+",
+        "Apple Arcade",
+        "iCloud",
+        "iMessage",
+        "Apple Pay"
+    ],
+
+    "dimensions_mm": {
+        "height": 16.2,
+        "width": 357.9,
+        "depth": 245.9
+    },
+
+    "weight_grams": 2000,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "100Wh",
+        "battery_life": "11 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "96W USB-C Power Adapter",
+        "USB-C Charge Cable",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "first_16_inch_macbook": true,
+        "magic_keyboard": true,
+        "t2_chip": true,
+        "eight_tb_ssd": true,
+        "studio_microphones": true,
+        "six_speaker_system": true,
+        "usb_c": true,
+        "thunderbolt_3": true,
+        "touch_bar": true,
+        "touch_id": true,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

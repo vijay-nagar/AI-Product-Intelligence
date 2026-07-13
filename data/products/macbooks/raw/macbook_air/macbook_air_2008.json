@@ -1,0 +1,127 @@
+{
+    "product_name": "MacBook Air",
+    "generation": "1st Generation",
+    "model_numbers": [
+        "A1237"
+    ],
+    "release_date": "2008-01-15",
+    "release_year": 2008,
+    "status": "Discontinued",
+
+    "processor": "Intel Core 2 Duo SL9400",
+    "cpu": "Dual-Core Intel Core 2 Duo 1.6GHz / 1.8GHz",
+    "gpu": "Intel GMA X3100",
+    "ram": "2GB DDR2",
+    "storage_options": [
+        "80GB HDD",
+        "64GB SSD"
+    ],
+
+    "operating_system": "Mac OS X Leopard 10.5.1",
+    "current_supported_os": "Mac OS X Lion 10.7.5",
+
+    "display": {
+        "output_resolution": "1280x800",
+        "supported_resolutions": [
+            "800x600",
+            "1024x768",
+            "1280x800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch LED-backlit Glossy Display"
+        ]
+    },
+
+    "video_features": [
+        "Mini-DVI Video Output",
+        "Extended Desktop Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Built-in Microphone",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 2.1 + EDR",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": false
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "1 x USB 2.0",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": ""
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "OpenGL Support"
+    ],
+
+    "supported_services": [
+        "iTunes",
+        "iPhoto",
+        "iMovie",
+        "GarageBand"
+    ],
+
+    "dimensions_mm": {
+        "height": 19.4,
+        "width": 324,
+        "depth": 227
+    },
+
+    "weight_grams": 1360,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "37Wh",
+        "battery_life": "5 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Air",
+        "45W MagSafe Power Adapter",
+        "Power Cord",
+        "Micro-DVI to DVI Adapter",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "first_macbook_air": true,
+        "ssd_storage": true,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

@@ -1,0 +1,146 @@
+{
+    "product_name": "Apple TV 4K",
+    "generation": "3rd Generation",
+    "model_numbers": ["A2737", "A2843"],
+    "release_date": "2022-11-04",
+    "release_year": 2022,
+    "status": "Current",
+
+    "processor": "Apple A15 Bionic",
+    "cpu": "6-core CPU",
+    "gpu": "5-core GPU",
+    "ram": "4GB",
+    "storage_options": [
+        "64GB",
+        "128GB"
+    ],
+
+    "operating_system": "tvOS",
+    "current_supported_os": "tvOS 18",
+
+    "display": {
+        "output_resolution": "4K UHD",
+        "supported_resolutions": [
+            "720p",
+            "1080p",
+            "2160p"
+        ],
+        "refresh_rates": [
+            "24Hz",
+            "30Hz",
+            "50Hz",
+            "60Hz"
+        ],
+        "aspect_ratio": "16:9",
+        "display_technologies": [
+            "HDR10",
+            "HDR10+",
+            "Dolby Vision"
+        ]
+    },
+
+    "video_features": [
+        "4K Video Playback",
+        "HDR10",
+        "HDR10+",
+        "Dolby Vision",
+        "High Frame Rate HDR",
+        "AirPlay Mirroring",
+        "Picture in Picture",
+        "Screen Mirroring",
+        "Color Balance Calibration"
+    ],
+
+    "audio_features": [
+        "Dolby Digital 7.1",
+        "Dolby Digital 5.1",
+        "Dolby Atmos",
+        "Spatial Audio",
+        "Apple Lossless Audio"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "HEVC",
+        "HEVC Main 10",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV",
+        "Apple Lossless",
+        "FLAC"
+    ],
+
+    "connectivity": {
+        "wifi": "Wi-Fi 6 (802.11ax)",
+        "bluetooth": "Bluetooth 5.0",
+        "ethernet": true,
+        "thread_support": true,
+        "matter_support": true,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "HDMI 2.1",
+        "usb": "",
+        "optical_audio": false,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "Siri Remote (3rd Generation)",
+        "voice_control": true,
+        "charging_port": "USB-C"
+    },
+
+    "smart_home_features": [
+        "HomeKit Hub",
+        "Thread Border Router",
+        "Matter Controller",
+        "Home Automation Support"
+    ],
+
+    "gaming_features": [
+        "App Store Games",
+        "Bluetooth Controller Support",
+        "Apple Arcade Support",
+        "Xbox Controller Support",
+        "PlayStation Controller Support"
+    ],
+
+    "supported_services": [
+        "Apple TV+",
+        "Netflix",
+        "Disney+",
+        "Prime Video",
+        "YouTube",
+        "Spotify",
+        "Apple Music",
+        "Apple Arcade",
+        "Twitch",
+        "Plex"
+    ],
+
+    "dimensions_mm": {
+        "height": 31,
+        "width": 93,
+        "depth": 93
+    },
+
+    "weight_grams": 208,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "in_the_box": [
+        "Apple TV 4K",
+        "Siri Remote",
+        "Power Cable",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

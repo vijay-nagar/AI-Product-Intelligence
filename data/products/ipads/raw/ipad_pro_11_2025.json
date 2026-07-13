@@ -1,8 +1,5 @@
 {
     "name": "Apple iPad Pro 11 (2025)",
-    "url": "https://www.gsmarena.com/apple_ipad_pro_11_5g_(2025)-14234.php",
-    "source": "gsmarena",
-    "scraped_at": "2026-07-09T10:55:56.914042Z",
     "specifications": {
         "Network": {
             "Technology": "GSM / HSPA / LTE / 5G",
@@ -29,7 +26,7 @@
             "Size": "11.0 inches, 364.8 cm2 (~82.3% screen-to-body ratio)",
             "Resolution": "1668 x 2420 pixels, 3:2 ratio (~267 ppi density)",
             "Protection": "Scratch-resistant glass, oleophobic coating, Mohs level 4",
-            "": "Antireflective coating\r\nNano-texture display glass option on 1TB and 2TB models"
+            "": "Antireflective coating\nNano-texture display glass option on 1TB and 2TB models"
         },
         "Platform": {
             "OS": "iPadOS 26, upgradable to iPadOS 26.4",
@@ -42,7 +39,7 @@
             "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM, 2TB 16GB RAM"
         },
         "Main Camera": {
-            "Single": "12 MP, f/1.8, (wide), dual pixel PDAF\r\nTOF 3D LiDAR scanner (depth)",
+            "Single": "12 MP, f/1.8, (wide), dual pixel PDAF\nTOF 3D LiDAR scanner (depth)",
             "Features": "Quad-LED dual-tone flash, HDR",
             "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
         },

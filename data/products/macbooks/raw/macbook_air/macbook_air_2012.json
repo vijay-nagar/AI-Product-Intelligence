@@ -1,0 +1,80 @@
+{
+    "product_name": "MacBook Air",
+    "generation": "5th Generation",
+    "model_numbers": ["A1465", "A1466"],
+    "release_date": "2012-06-11",
+    "release_year": 2012,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i5-3317U / i7-3667U",
+    "cpu": "Dual-Core Intel Core i5/i7",
+    "gpu": "Intel HD Graphics 4000",
+    "ram": "4GB DDR3",
+    "storage_options": [
+        "64GB SSD",
+        "128GB SSD",
+        "256GB SSD",
+        "512GB SSD"
+    ],
+
+    "operating_system": "OS X Mountain Lion 10.8",
+    "current_supported_os": "macOS Monterey 12",
+
+    "display": {
+        "output_resolution": "1366x768",
+        "supported_resolutions": [
+            "1366x768",
+            "1440x900"
+        ],
+        "refresh_rates": ["60Hz"],
+        "aspect_ratio": "16:9",
+        "display_technologies": [
+            "LED-backlit Display"
+        ]
+    },
+
+    "video_features": [
+        "Thunderbolt",
+        "External Display Support",
+        "FaceTime HD Camera"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dual Microphones"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 3.0",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "historical_features": {
+        "usb_3": true,
+        "thunderbolt": true,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

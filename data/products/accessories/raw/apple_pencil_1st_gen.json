@@ -1,0 +1,15 @@
+{
+    "product_name": "Apple Pencil",
+    "generation": "1st Generation",
+    "release_year": 2015,
+    "status": "Discontinued",
+    "features": [
+        "Pressure Sensitivity",
+        "Tilt Support",
+        "Lightning Charging"
+    ],
+    "colors": ["White"],
+    "weight_grams": 21,
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

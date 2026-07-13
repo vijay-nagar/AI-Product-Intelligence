@@ -1,0 +1,114 @@
+{
+    "product_name": "Apple TV",
+    "generation": "3rd Generation Rev A",
+    "model_numbers": ["A1469"],
+    "release_date": "2013-01-28",
+    "release_year": 2013,
+    "status": "Discontinued",
+
+    "processor": "Apple A5",
+    "cpu": "Single-Core ARM Cortex-A9",
+    "gpu": "PowerVR SGX543MP2",
+    "ram": "512MB",
+    "storage_options": ["8GB Flash"],
+
+    "operating_system": "Apple TV Software",
+    "current_supported_os": "Apple TV Software 7.9",
+
+    "display": {
+        "output_resolution": "1080p",
+        "supported_resolutions": [
+            "480p",
+            "576p",
+            "720p",
+            "1080p"
+        ],
+        "refresh_rates": [
+            "24Hz",
+            "50Hz",
+            "60Hz"
+        ],
+        "aspect_ratio": "16:9",
+        "display_technologies": []
+    },
+
+    "video_features": [
+        "1080p Video Playback",
+        "AirPlay Mirroring",
+        "Photo Streaming",
+        "Home Sharing"
+    ],
+
+    "audio_features": [
+        "Dolby Digital 5.1",
+        "AAC Audio",
+        "MP3 Playback"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "MPEG-4",
+        "Motion JPEG",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "No",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "HDMI",
+        "usb": "Micro USB (Service Only)",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "Apple Remote",
+        "voice_control": false,
+        "charging_port": ""
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [],
+
+    "supported_services": [
+        "iTunes Store",
+        "Netflix",
+        "YouTube",
+        "Flickr",
+        "Vimeo"
+    ],
+
+    "dimensions_mm": {
+        "height": 23,
+        "width": 98,
+        "depth": 98
+    },
+
+    "weight_grams": 272,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "in_the_box": [
+        "Apple TV",
+        "Apple Remote",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

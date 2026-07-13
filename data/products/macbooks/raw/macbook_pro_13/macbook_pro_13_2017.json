@@ -1,0 +1,150 @@
+{
+    "product_name": "MacBook Pro 13-inch",
+    "generation": "Kaby Lake Generation",
+    "model_numbers": [
+        "A1706",
+        "A1708"
+    ],
+    "release_date": "2017-06-05",
+    "release_year": 2017,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i5-7267U / Intel Core i7-7567U",
+    "cpu": "Dual-Core Intel Core i5/i7 (Kaby Lake)",
+    "gpu": "Intel Iris Plus Graphics 640 / 650",
+    "ram": "8GB / 16GB LPDDR3 2133MHz",
+    "storage_options": [
+        "128GB SSD",
+        "256GB SSD",
+        "512GB SSD",
+        "1TB SSD",
+        "2TB SSD"
+    ],
+
+    "operating_system": "macOS Sierra",
+    "current_supported_os": "macOS Sequoia",
+
+    "display": {
+        "output_resolution": "2560x1600",
+        "supported_resolutions": [
+            "1280x800",
+            "1440x900",
+            "1680x1050",
+            "1920x1200",
+            "2560x1600"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch Retina IPS Display",
+            "LED Backlit",
+            "P3 Wide Color",
+            "500 Nits Brightness"
+        ]
+    },
+
+    "video_features": [
+        "5K External Display Support",
+        "Thunderbolt 3",
+        "Retina Display",
+        "FaceTime HD Camera"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Wide Dynamic Range",
+        "Three Microphone Array",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "HEVC",
+        "AAC",
+        "ALAC",
+        "FLAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac Wi-Fi",
+        "bluetooth": "Bluetooth 4.2",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x or 4 x Thunderbolt 3 / USB-C",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "Touch Bar",
+        "voice_control": true,
+        "charging_port": "USB-C"
+    },
+
+    "smart_home_features": [
+        "Siri"
+    ],
+
+    "gaming_features": [
+        "Metal Support",
+        "Intel Iris Plus Graphics",
+        "eGPU Support"
+    ],
+
+    "supported_services": [
+        "AirDrop",
+        "AirPlay",
+        "FaceTime",
+        "Apple Music",
+        "iCloud",
+        "iMessage"
+    ],
+
+    "dimensions_mm": {
+        "height": 14.9,
+        "width": 304.1,
+        "depth": 212.4
+    },
+
+    "weight_grams": 1370,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "54.5Wh",
+        "battery_life": "10 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "61W USB-C Power Adapter",
+        "USB-C Charge Cable",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "usb_c": true,
+        "thunderbolt_3": true,
+        "touch_bar": true,
+        "touch_id": true,
+        "t1_chip": true,
+        "force_touch_trackpad": true,
+        "butterfly_keyboard": true,
+        "retina_display": true,
+        "p3_display": true,
+        "kaby_lake": true,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

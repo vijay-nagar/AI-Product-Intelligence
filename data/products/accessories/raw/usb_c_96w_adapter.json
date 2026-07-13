@@ -1,0 +1,52 @@
+{
+    "product_name": "Apple 96W USB-C Power Adapter",
+    "category": "Power Adapter",
+    "generation": "96W",
+    "model_numbers": ["A2166"],
+    "release_date": "2019-11-13",
+    "release_year": 2019,
+    "status": "Current",
+
+    "compatibility": [
+        "MacBook Pro 16",
+        "MacBook Pro 14",
+        "MacBook Pro 15"
+    ],
+
+    "connectivity": [],
+    "features": [
+        "Fast Charging",
+        "USB Power Delivery",
+        "High Performance Charging"
+    ],
+
+    "colors": [
+        "White"
+    ],
+
+    "dimensions_mm": {
+        "height": 79,
+        "width": 79,
+        "depth": 28
+    },
+
+    "weight_grams": 295,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "maximum_output_power": "96W"
+    },
+
+    "ports": [
+        "1 x USB-C"
+    ],
+
+    "in_the_box": [
+        "96W USB-C Power Adapter",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

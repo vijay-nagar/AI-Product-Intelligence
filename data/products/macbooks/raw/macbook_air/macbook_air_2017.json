@@ -1,0 +1,126 @@
+{
+    "product_name": "MacBook Air",
+    "generation": "9th Generation",
+    "model_numbers": ["A1466"],
+    "release_date": "2017-06-05",
+    "release_year": 2017,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i5-5350U",
+    "cpu": "Dual-Core Intel Core i5 1.8GHz",
+    "gpu": "Intel HD Graphics 6000",
+    "ram": "8GB LPDDR3",
+    "storage_options": [
+        "128GB SSD",
+        "256GB SSD",
+        "512GB SSD"
+    ],
+
+    "operating_system": "macOS Sierra 10.12",
+    "current_supported_os": "macOS Monterey",
+
+    "display": {
+        "output_resolution": "1440x900",
+        "supported_resolutions": [
+            "1024x640",
+            "1280x800",
+            "1366x768",
+            "1440x900"
+        ],
+        "refresh_rates": ["60Hz"],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch LED-backlit Display"
+        ]
+    },
+
+    "video_features": [
+        "Thunderbolt 2",
+        "Dual Display Support",
+        "External Monitor Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dual Microphones",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "HEVC"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac Wi-Fi",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 3.0",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe 2"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "Metal API Support"
+    ],
+
+    "supported_services": [
+        "AirDrop",
+        "AirPlay",
+        "FaceTime",
+        "iCloud",
+        "iMessage"
+    ],
+
+    "dimensions_mm": {
+        "height": 17,
+        "width": 325,
+        "depth": 227
+    },
+
+    "weight_grams": 1350,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "in_the_box": [
+        "MacBook Air",
+        "45W MagSafe 2 Power Adapter",
+        "AC Wall Plug",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "touch_id": false,
+        "t2_chip": false,
+        "apple_silicon": false,
+        "butterfly_keyboard": false,
+        "mag_safe_2": true
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

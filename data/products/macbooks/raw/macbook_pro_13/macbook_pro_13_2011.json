@@ -1,0 +1,136 @@
+{
+    "product_name": "MacBook Pro 13-inch",
+    "generation": "3rd Generation",
+    "model_numbers": [
+        "A1278"
+    ],
+    "release_date": "2011-02-24",
+    "release_year": 2011,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i5-2415M / Core i7-2620M",
+    "cpu": "Dual-Core Intel Core i5/i7 (Sandy Bridge)",
+    "gpu": "Intel HD Graphics 3000",
+    "ram": "4GB DDR3 1333MHz",
+    "storage_options": [
+        "320GB HDD",
+        "500GB HDD",
+        "750GB HDD",
+        "128GB SSD CTO",
+        "256GB SSD CTO"
+    ],
+
+    "operating_system": "Mac OS X Snow Leopard 10.6.6",
+    "current_supported_os": "macOS High Sierra 10.13.6",
+
+    "display": {
+        "output_resolution": "1280x800",
+        "supported_resolutions": [
+            "800x600",
+            "1024x768",
+            "1152x720",
+            "1280x800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch LED-backlit Glossy Display"
+        ]
+    },
+
+    "video_features": [
+        "Thunderbolt",
+        "Mini DisplayPort",
+        "Dual Display Support",
+        "External Monitor Support",
+        "FaceTime HD Camera"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Built-in Microphone",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 2.1 + EDR",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 2.0",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "OpenGL Support",
+        "Intel Quick Sync Video"
+    ],
+
+    "supported_services": [
+        "FaceTime",
+        "AirDrop",
+        "AirPlay",
+        "iCloud",
+        "iTunes"
+    ],
+
+    "dimensions_mm": {
+        "height": 24.1,
+        "width": 325,
+        "depth": 227
+    },
+
+    "weight_grams": 2040,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "63.5Wh",
+        "battery_life": "7 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "60W MagSafe Power Adapter",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "thunderbolt": true,
+        "sandy_bridge": true,
+        "face_time_hd": true,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

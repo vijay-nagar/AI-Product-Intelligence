@@ -1,0 +1,133 @@
+{
+    "product_name": "MacBook Pro 13-inch",
+    "generation": "1st Generation",
+    "model_numbers": [
+        "A1278"
+    ],
+    "release_date": "2009-06-08",
+    "release_year": 2009,
+    "status": "Discontinued",
+
+    "processor": "Intel Core 2 Duo P8400/P8700",
+    "cpu": "Dual-Core Intel Core 2 Duo",
+    "gpu": "NVIDIA GeForce 9400M",
+    "ram": "2GB DDR3",
+    "storage_options": [
+        "160GB HDD",
+        "250GB HDD",
+        "320GB HDD",
+        "128GB SSD (CTO)"
+    ],
+
+    "operating_system": "Mac OS X Snow Leopard",
+    "current_supported_os": "OS X El Capitan 10.11.6",
+
+    "display": {
+        "output_resolution": "1280x800",
+        "supported_resolutions": [
+            "800x600",
+            "1024x768",
+            "1280x800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch LED-backlit Glossy Display"
+        ]
+    },
+
+    "video_features": [
+        "Mini DisplayPort",
+        "Extended Desktop Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Built-in Microphone",
+        "3.5mm Audio Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 2.1 + EDR",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": false
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 2.0",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "OpenGL Support",
+        "NVIDIA GPU Acceleration"
+    ],
+
+    "supported_services": [
+        "iTunes",
+        "iPhoto",
+        "iMovie",
+        "GarageBand"
+    ],
+
+    "dimensions_mm": {
+        "height": 24.1,
+        "width": 325,
+        "depth": 227
+    },
+
+    "weight_grams": 2040,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "58Wh",
+        "battery_life": "7 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "60W MagSafe Power Adapter",
+        "AC Wall Plug",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "first_13_inch_macbook_pro": true,
+        "unibody_design": true,
+        "nvidia_gpu": true,
+        "sd_card_slot": true,
+        "firewire_800": true,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

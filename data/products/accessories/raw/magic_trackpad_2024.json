@@ -1,0 +1,18 @@
+{
+    "product_name": "Magic Trackpad",
+    "category": "Trackpad",
+    "generation": "2024",
+    "release_year": 2024,
+    "status": "Current",
+    "connectivity": ["Bluetooth", "USB-C"],
+    "features": [
+        "Force Touch",
+        "Multi-Touch",
+        "Gesture Support",
+        "Rechargeable Battery"
+    ],
+    "colors": ["White", "Black"],
+    "weight_grams": 230,
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

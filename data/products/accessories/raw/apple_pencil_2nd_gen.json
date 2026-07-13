@@ -1,0 +1,16 @@
+{
+    "product_name": "Apple Pencil",
+    "generation": "2nd Generation",
+    "release_year": 2018,
+    "status": "Current",
+    "features": [
+        "Pressure Sensitivity",
+        "Tilt Support",
+        "Double Tap Gesture",
+        "Magnetic Charging"
+    ],
+    "colors": ["White"],
+    "weight_grams": 20,
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

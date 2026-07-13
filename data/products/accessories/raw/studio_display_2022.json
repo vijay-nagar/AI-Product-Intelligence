@@ -1,0 +1,57 @@
+{
+    "product_name": "Studio Display",
+    "category": "Display",
+    "generation": "1st Generation",
+    "model_numbers": ["A2525"],
+    "release_date": "2022-03-18",
+    "release_year": 2022,
+    "status": "Current",
+
+    "processor": "Apple A13 Bionic",
+
+    "display": {
+        "size": "27-inch",
+        "resolution": "5120 x 2880",
+        "type": "Retina 5K LCD",
+        "brightness": "600 nits",
+        "refresh_rate": "60Hz",
+        "color_gamut": "P3 Wide Color",
+        "true_tone": true
+    },
+
+    "connectivity": [
+        "Thunderbolt 3",
+        "USB-C"
+    ],
+
+    "features": [
+        "Center Stage",
+        "Spatial Audio",
+        "True Tone",
+        "Nano Texture Glass Option"
+    ],
+
+    "ports": [
+        "1 x Thunderbolt 3",
+        "3 x USB-C"
+    ],
+
+    "camera": "12MP Ultra Wide",
+    "speakers": 6,
+
+    "dimensions_mm": {
+        "height": 478,
+        "width": 623,
+        "depth": 168
+    },
+
+    "weight_grams": 6300,
+
+    "in_the_box": [
+        "Studio Display",
+        "Thunderbolt Cable"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

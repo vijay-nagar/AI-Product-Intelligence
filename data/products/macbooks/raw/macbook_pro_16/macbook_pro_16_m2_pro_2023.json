@@ -1,0 +1,153 @@
+{
+    "product_name": "MacBook Pro 16-inch",
+    "generation": "Apple Silicon M2 Pro Generation",
+    "model_numbers": [
+        "A2780"
+    ],
+    "release_date": "2023-01-17",
+    "release_year": 2023,
+    "status": "Active",
+
+    "processor": "Apple M2 Pro",
+    "cpu": "12-Core CPU",
+    "gpu": "19-Core GPU",
+    "ram": "16GB / 32GB Unified Memory",
+    "storage_options": [
+        "512GB SSD",
+        "1TB SSD",
+        "2TB SSD",
+        "4TB SSD",
+        "8TB SSD"
+    ],
+
+    "operating_system": "macOS Ventura",
+    "current_supported_os": "macOS Tahoe",
+
+    "display": {
+        "output_resolution": "3456x2234",
+        "supported_resolutions": [
+            "1728x1117",
+            "2234x1440",
+            "3024x1964",
+            "3456x2234"
+        ],
+        "refresh_rates": [
+            "24Hz",
+            "30Hz",
+            "48Hz",
+            "60Hz",
+            "120Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "Liquid Retina XDR",
+            "Mini-LED",
+            "ProMotion 120Hz",
+            "P3 Wide Color",
+            "True Tone",
+            "1000 Nits Sustained Brightness",
+            "1600 Nits Peak HDR Brightness",
+            "254 PPI"
+        ]
+    },
+
+    "video_features": [
+        "AV1 Decode",
+        "ProRes Encode/Decode",
+        "8K Display Support",
+        "HDMI 2.1 Support",
+        "Multiple 6K Display Support",
+        "1080p FaceTime HD Camera"
+    ],
+
+    "audio_features": [
+        "Six Speaker High Fidelity Audio",
+        "Force Cancelling Woofers",
+        "Spatial Audio",
+        "Dolby Atmos",
+        "Studio Quality Microphones",
+        "High Impedance Headphone Support"
+    ],
+
+    "supported_codecs": [
+        "AV1",
+        "H.264",
+        "HEVC",
+        "ProRes",
+        "ProRes RAW",
+        "AAC",
+        "ALAC",
+        "FLAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "Wi-Fi 6E (802.11ax)",
+        "bluetooth": "Bluetooth 5.3",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "HDMI 2.1",
+        "usb": "3 x Thunderbolt 4 / USB-C",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": true,
+        "charging_port": "MagSafe 3"
+    },
+
+    "smart_home_features": [
+        "Siri",
+        "Hey Siri"
+    ],
+
+    "gaming_features": [
+        "Metal 3",
+        "Game Mode",
+        "Apple Arcade",
+        "Unified Memory Architecture"
+    ],
+
+    "supported_services": [
+        "AirDrop",
+        "AirPlay",
+        "FaceTime",
+        "Apple Music",
+        "Apple TV+",
+        "Apple Arcade",
+        "iCloud",
+        "Apple Pay"
+    ],
+
+    "dimensions_mm": {
+        "height": 16.8,
+        "width": 355.7,
+        "depth": 248.1
+    },
+
+    "weight_grams": 2150,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "100Wh",
+        "battery_life": "22 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "140W USB-C Power Adapter",
+        "USB-C to MagSafe 3 Cable",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

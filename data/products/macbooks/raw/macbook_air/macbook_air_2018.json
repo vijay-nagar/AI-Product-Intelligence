@@ -1,0 +1,130 @@
+{
+    "product_name": "MacBook Air",
+    "generation": "Retina MacBook Air",
+    "model_numbers": ["A1932"],
+    "release_date": "2018-10-30",
+    "release_year": 2018,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i5-8210Y",
+    "cpu": "Dual-Core Intel Core i5 1.6GHz",
+    "gpu": "Intel UHD Graphics 617",
+    "ram": "8GB LPDDR3",
+    "storage_options": [
+        "128GB SSD",
+        "256GB SSD",
+        "512GB SSD",
+        "1TB SSD"
+    ],
+
+    "operating_system": "macOS Mojave",
+    "current_supported_os": "macOS Sequoia",
+
+    "display": {
+        "output_resolution": "2560x1600",
+        "supported_resolutions": [
+            "1280x800",
+            "1440x900",
+            "1680x1050",
+            "2560x1600"
+        ],
+        "refresh_rates": ["60Hz"],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch Retina IPS Display",
+            "True Tone",
+            "LED Backlit"
+        ]
+    },
+
+    "video_features": [
+        "Retina Display",
+        "Thunderbolt 3 Video Output",
+        "5K External Display Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Three Microphone Array",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "HEVC",
+        "AAC",
+        "MP3",
+        "FLAC"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac Wi-Fi",
+        "bluetooth": "Bluetooth 4.2",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x Thunderbolt 3 / USB-C",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "USB-C"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "Metal API",
+        "eGPU Support"
+    ],
+
+    "supported_services": [
+        "AirDrop",
+        "AirPlay",
+        "FaceTime",
+        "iCloud",
+        "iMessage"
+    ],
+
+    "dimensions_mm": {
+        "height": 15.6,
+        "width": 304.1,
+        "depth": 212.4
+    },
+
+    "weight_grams": 1250,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "in_the_box": [
+        "MacBook Air",
+        "30W USB-C Power Adapter",
+        "USB-C Charging Cable",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "retina_display": true,
+        "usb_c": true,
+        "touch_bar": false,
+        "touch_id": true,
+        "t2_chip": true,
+        "apple_silicon": false,
+        "butterfly_keyboard": true,
+        "true_tone_display": true
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

@@ -1,0 +1,55 @@
+{
+    "product_name": "Apple 140W USB-C Power Adapter",
+    "category": "Power Adapter",
+    "generation": "140W",
+    "model_numbers": ["A2452"],
+    "release_date": "2021-10-18",
+    "release_year": 2021,
+    "status": "Current",
+
+    "compatibility": [
+        "MacBook Pro 16 M1 Max",
+        "MacBook Pro 16 M2 Max",
+        "MacBook Pro 16 M3 Max",
+        "MacBook Pro 16 M4 Max"
+    ],
+
+    "connectivity": [],
+    "features": [
+        "USB Power Delivery 3.1",
+        "Fast Charging",
+        "High Performance Charging",
+        "Supports Fast Charging over MagSafe 3"
+    ],
+
+    "colors": [
+        "White"
+    ],
+
+    "dimensions_mm": {
+        "height": 96,
+        "width": 75,
+        "depth": 28
+    },
+
+    "weight_grams": 345,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "maximum_output_power": "140W",
+        "usb_pd_version": "USB PD 3.1"
+    },
+
+    "ports": [
+        "1 x USB-C"
+    ],
+
+    "in_the_box": [
+        "140W USB-C Power Adapter",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

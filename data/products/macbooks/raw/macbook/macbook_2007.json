@@ -1,0 +1,121 @@
+{
+    "product_name": "MacBook",
+    "generation": "2nd Generation",
+    "model_numbers": [
+        "A1181"
+    ],
+    "release_date": "2007-05-15",
+    "release_year": 2007,
+    "status": "Discontinued",
+
+    "processor": "Intel Core 2 Duo T7200/T7400",
+    "cpu": "Dual-Core Intel Core 2 Duo",
+    "gpu": "Intel GMA 950",
+    "ram": "1GB",
+    "storage_options": [
+        "80GB HDD",
+        "120GB HDD",
+        "160GB HDD"
+    ],
+
+    "operating_system": "Mac OS X Tiger 10.4.9",
+    "current_supported_os": "Mac OS X Lion 10.7.5",
+
+    "display": {
+        "output_resolution": "1280x800",
+        "supported_resolutions": [
+            "800x600",
+            "1024x768",
+            "1280x800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch Glossy TFT LCD"
+        ]
+    },
+
+    "video_features": [
+        "Extended Desktop Support",
+        "Mini-DVI Video Output"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Built-in Microphone",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "MPEG-4",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g",
+        "bluetooth": "Bluetooth 2.0 + EDR",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": false
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 2.0",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": ""
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "OpenGL Support"
+    ],
+
+    "supported_services": [
+        "iTunes",
+        "iPhoto",
+        "iMovie",
+        "GarageBand",
+        "Front Row"
+    ],
+
+    "dimensions_mm": {
+        "height": 27.5,
+        "width": 325,
+        "depth": 227
+    },
+
+    "weight_grams": 2360,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "55Wh",
+        "battery_life": "6 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook",
+        "60W MagSafe Power Adapter",
+        "Power Cord",
+        "Documentation",
+        "Restore DVDs"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

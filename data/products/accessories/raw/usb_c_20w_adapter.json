@@ -1,0 +1,54 @@
+{
+    "product_name": "Apple 20W USB-C Power Adapter",
+    "category": "Power Adapter",
+    "generation": "20W",
+    "model_numbers": ["A2305"],
+    "release_date": "2020-10-13",
+    "release_year": 2020,
+    "status": "Current",
+
+    "compatibility": [
+        "iPhone",
+        "iPad",
+        "AirPods",
+        "Apple Watch"
+    ],
+
+    "connectivity": [],
+    "features": [
+        "Fast Charging",
+        "USB Power Delivery",
+        "Compact Design"
+    ],
+
+    "colors": [
+        "White"
+    ],
+
+    "dimensions_mm": {
+        "height": 42,
+        "width": 42,
+        "depth": 27
+    },
+
+    "weight_grams": 61,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "maximum_output_power": "20W",
+        "output_voltage": "5V/3A or 9V/2.22A"
+    },
+
+    "ports": [
+        "1 x USB-C"
+    ],
+
+    "in_the_box": [
+        "20W USB-C Power Adapter",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

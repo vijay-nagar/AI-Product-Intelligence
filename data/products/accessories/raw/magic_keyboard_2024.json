@@ -1,0 +1,18 @@
+{
+    "product_name": "Magic Keyboard",
+    "category": "Keyboard",
+    "generation": "2024",
+    "release_year": 2024,
+    "status": "Current",
+    "connectivity": ["Bluetooth", "USB-C"],
+    "features": [
+        "Backlit Keys",
+        "Scissor Mechanism",
+        "Rechargeable Battery",
+        "Multi Device Support"
+    ],
+    "colors": ["White", "Black"],
+    "weight_grams": 239,
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

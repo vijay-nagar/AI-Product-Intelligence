@@ -1,0 +1,114 @@
+{
+    "product_name": "Apple TV HD",
+    "generation": "4th Generation",
+    "model_numbers": ["A1625"],
+    "release_date": "2015-10-30",
+    "release_year": 2015,
+    "status": "Current",
+
+    "processor": "Apple A8",
+    "cpu": "Dual-Core Cyclone",
+    "gpu": "PowerVR GX6450",
+    "ram": "2GB",
+    "storage_options": ["32GB", "64GB"],
+
+    "operating_system": "tvOS",
+    "current_supported_os": "tvOS 18",
+
+    "display": {
+        "output_resolution": "1080p",
+        "supported_resolutions": [
+            "720p",
+            "1080p"
+        ],
+        "refresh_rates": [
+            "24Hz",
+            "50Hz",
+            "60Hz"
+        ],
+        "aspect_ratio": "16:9",
+        "display_technologies": [
+            "HDMI Output"
+        ]
+    },
+
+    "video_features": [
+        "1080p Video Playback",
+        "AirPlay Mirroring"
+    ],
+
+    "audio_features": [
+        "Dolby Digital 7.1",
+        "Dolby Digital 5.1"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "HEVC",
+        "AAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac Wi-Fi",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "HDMI 1.4",
+        "usb": "USB-C (Service Only)",
+        "optical_audio": false,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "Siri Remote",
+        "voice_control": true,
+        "charging_port": "Lightning"
+    },
+
+    "smart_home_features": [
+        "HomeKit Support"
+    ],
+
+    "gaming_features": [
+        "App Store Games",
+        "Bluetooth Controller Support"
+    ],
+
+    "supported_services": [
+        "Apple TV+",
+        "Netflix",
+        "Disney+",
+        "YouTube",
+        "Prime Video"
+    ],
+
+    "dimensions_mm": {
+        "height": 35,
+        "width": 98,
+        "depth": 98
+    },
+
+    "weight_grams": 425,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "in_the_box": [
+        "Apple TV HD",
+        "Siri Remote",
+        "Power Cable",
+        "Lightning Cable",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

@@ -1,0 +1,78 @@
+{
+    "product_name": "MacBook Air",
+    "generation": "6th Generation",
+    "model_numbers": ["A1465", "A1466"],
+    "release_date": "2013-06-10",
+    "release_year": 2013,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i5-4250U / Intel Core i7-4650U",
+    "cpu": "Dual-Core Intel Core i5/i7",
+    "gpu": "Intel HD Graphics 5000",
+    "ram": "4GB DDR3",
+    "storage_options": [
+        "128GB SSD",
+        "256GB SSD",
+        "512GB SSD"
+    ],
+
+    "operating_system": "OS X Mavericks",
+    "current_supported_os": "macOS Big Sur",
+
+    "display": {
+        "output_resolution": "1440x900",
+        "supported_resolutions": [
+            "1440x900"
+        ],
+        "refresh_rates": ["60Hz"],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "LED-backlit Display"
+        ]
+    },
+
+    "video_features": [
+        "Thunderbolt",
+        "FaceTime HD Camera",
+        "External Display Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dual Microphones"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 3.0",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "historical_features": {
+        "haswell": true,
+        "pcie_ssd": true,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

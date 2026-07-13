@@ -1,0 +1,116 @@
+{
+    "product_name": "HomePod",
+    "generation": "2nd Generation",
+    "model_numbers": ["A2825"],
+    "release_date": "2023-02-03",
+    "release_year": 2023,
+    "status": "Current",
+
+    "processor": "Apple S7",
+    "cpu": "64-bit Dual-Core",
+    "gpu": "",
+    "ram": "1GB",
+    "storage_options": ["32GB"],
+
+    "operating_system": "audioOS",
+    "current_supported_os": "HomePod Software 18",
+
+    "display": {
+        "output_resolution": "N/A",
+        "supported_resolutions": [],
+        "refresh_rates": [],
+        "aspect_ratio": "",
+        "display_technologies": [
+            "LED Touch Display"
+        ]
+    },
+
+    "video_features": [],
+
+    "audio_features": [
+        "4 High Excursion Woofers",
+        "5 Beamforming Tweeters",
+        "Computational Audio",
+        "Room Sensing",
+        "Spatial Audio",
+        "Stereo Pair Support",
+        "Multiroom Audio",
+        "Real-Time Acoustic Tuning"
+    ],
+
+    "supported_codecs": [
+        "AAC",
+        "Apple Lossless",
+        "FLAC",
+        "MP3",
+        "HE-AAC",
+        "Protected AAC"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11n Wi-Fi",
+        "bluetooth": "Bluetooth 5.0",
+        "ethernet": false,
+        "thread_support": true,
+        "matter_support": true,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "Touch Surface",
+        "voice_control": true,
+        "charging_port": ""
+    },
+
+    "smart_home_features": [
+        "HomeKit Hub",
+        "Thread Border Router",
+        "Matter Controller",
+        "Temperature Sensor",
+        "Humidity Sensor",
+        "Sound Recognition",
+        "Siri",
+        "Intercom",
+        "Find My Integration"
+    ],
+
+    "gaming_features": [],
+
+    "supported_services": [
+        "Apple Music",
+        "AirPlay",
+        "Podcasts",
+        "Radio",
+        "Apple Podcasts",
+        "Apple Music Voice Plan"
+    ],
+
+    "dimensions_mm": {
+        "height": 168,
+        "width": 142,
+        "depth": 142
+    },
+
+    "weight_grams": 2300,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "in_the_box": [
+        "HomePod",
+        "Power Cable",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

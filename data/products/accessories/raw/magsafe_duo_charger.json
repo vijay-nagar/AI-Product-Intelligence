@@ -1,0 +1,52 @@
+{
+    "product_name": "MagSafe Duo Charger",
+    "category": "Wireless Charger",
+    "generation": "1st Generation",
+    "model_numbers": ["MHXF3AM/A"],
+    "release_date": "2020-12-14",
+    "release_year": 2020,
+    "status": "Discontinued",
+
+    "compatibility": [
+        "iPhone with MagSafe",
+        "Apple Watch",
+        "AirPods with Wireless Charging Case"
+    ],
+
+    "connectivity": [],
+
+    "features": [
+        "Dual Device Charging",
+        "MagSafe Charging",
+        "Qi Wireless Charging",
+        "Foldable Design",
+        "Travel Friendly"
+    ],
+
+    "colors": ["White"],
+
+    "dimensions_mm": {
+        "height": 11,
+        "width": 160,
+        "depth": 84
+    },
+
+    "weight_grams": 133,
+
+    "power": {
+        "maximum_output_power": "14W",
+        "charging_standard": "Qi"
+    },
+
+    "ports": [
+        "Lightning Input"
+    ],
+
+    "in_the_box": [
+        "MagSafe Duo Charger",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

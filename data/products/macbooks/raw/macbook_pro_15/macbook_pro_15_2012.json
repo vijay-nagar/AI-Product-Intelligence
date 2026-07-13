@@ -1,0 +1,143 @@
+{
+    "product_name": "MacBook Pro 15-inch",
+    "generation": "Ivy Bridge Generation",
+    "model_numbers": [
+        "A1286"
+    ],
+    "release_date": "2012-06-11",
+    "release_year": 2012,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i7-3615QM / i7-3720QM",
+    "cpu": "Quad-Core Intel Core i7 (Ivy Bridge)",
+    "gpu": "Intel HD Graphics 4000 + NVIDIA GeForce GT 650M",
+    "ram": "4GB DDR3 1600MHz",
+    "storage_options": [
+        "500GB HDD",
+        "750GB HDD",
+        "128GB SSD CTO",
+        "256GB SSD CTO",
+        "512GB SSD CTO"
+    ],
+
+    "operating_system": "OS X Mountain Lion",
+    "current_supported_os": "macOS Catalina 10.15.7",
+
+    "display": {
+        "output_resolution": "1440x900",
+        "supported_resolutions": [
+            "1024x640",
+            "1280x800",
+            "1440x900",
+            "1680x1050"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "15.4-inch LED Backlit Display",
+            "Glossy Display",
+            "Anti-Glare Option"
+        ]
+    },
+
+    "video_features": [
+        "Thunderbolt",
+        "Mini DisplayPort",
+        "FaceTime HD Camera",
+        "Dual Display Support",
+        "External Monitor Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dual Microphones",
+        "Optical Audio Input",
+        "Optical Audio Output",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 3.0",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "NVIDIA GeForce GT 650M",
+        "OpenGL Support",
+        "Automatic Graphics Switching"
+    ],
+
+    "supported_services": [
+        "FaceTime",
+        "AirDrop",
+        "AirPlay",
+        "iCloud",
+        "iTunes",
+        "Game Center"
+    ],
+
+    "dimensions_mm": {
+        "height": 24.1,
+        "width": 364,
+        "depth": 249
+    },
+
+    "weight_grams": 2560,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "77.5Wh",
+        "battery_life": "7 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "85W MagSafe Power Adapter",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "ivy_bridge": true,
+        "usb_3": true,
+        "bluetooth_4": true,
+        "thunderbolt": true,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

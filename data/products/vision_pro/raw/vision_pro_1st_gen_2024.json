@@ -1,0 +1,68 @@
+{
+    "product_name": "Apple Vision Pro",
+    "model": "1st Generation",
+    "release_year": 2024,
+    "status": "Available",
+
+    "chipset": "Apple M2",
+    "coprocessor": "Apple R1",
+
+    "operating_system": "visionOS",
+
+    "display_type": "Micro-OLED",
+    "display_resolution_per_eye": "3660 x 3200",
+    "total_pixels": "23 million",
+    "refresh_rate": "90Hz",
+
+    "storage_options": [
+        "256GB",
+        "512GB",
+        "1TB"
+    ],
+
+    "tracking_features": [
+        "Eye Tracking",
+        "Hand Tracking",
+        "Voice Control"
+    ],
+
+    "camera_system": [
+        "Stereo Main Cameras",
+        "Infrared Cameras",
+        "LiDAR Scanner",
+        "TrueDepth Camera"
+    ],
+
+    "authentication": [
+        "Optic ID"
+    ],
+
+    "audio_features": [
+        "Spatial Audio",
+        "Dual Driver Speakers",
+        "Dynamic Head Tracking"
+    ],
+
+    "connectivity": [
+        "Wi-Fi 6",
+        "Bluetooth 5.3"
+    ],
+
+    "battery_life": "Up to 2 hours",
+    "external_battery_supported": true,
+
+    "weight": "600g to 650g",
+
+    "supported_accessories": [
+        "ZEISS Optical Inserts",
+        "Magic Keyboard",
+        "Magic Trackpad",
+        "AirPods Pro"
+    ],
+
+    "price_usd": 3499,
+
+    "source": "Apple Official Website",
+    "scraped_at": "2026-07-11T10:00:00",
+    "data_version": "1.0"
+}

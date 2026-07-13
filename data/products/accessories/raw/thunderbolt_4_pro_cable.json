@@ -1,0 +1,55 @@
+{
+    "product_name": "Thunderbolt 4 Pro Cable",
+    "category": "Cable",
+    "generation": "Thunderbolt 4",
+    "model_numbers": ["MQ4H2AM/A"],
+    "release_date": "2021-10-18",
+    "release_year": 2021,
+    "status": "Current",
+
+    "compatibility": [
+        "MacBook",
+        "Mac Studio",
+        "Mac mini",
+        "Studio Display",
+        "Pro Display XDR"
+    ],
+
+    "connectivity": [
+        "Thunderbolt 4",
+        "USB4",
+        "USB-C"
+    ],
+
+    "features": [
+        "40Gbps Data Transfer",
+        "100W Power Delivery",
+        "Display Support",
+        "Daisy Chaining"
+    ],
+
+    "colors": ["Black"],
+
+    "dimensions_mm": {
+        "height": 0,
+        "width": 0,
+        "depth": 1800
+    },
+
+    "weight_grams": 120,
+
+    "power": {
+        "maximum_output_power": "100W"
+    },
+
+    "ports": [
+        "USB-C to USB-C"
+    ],
+
+    "in_the_box": [
+        "Thunderbolt 4 Pro Cable"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

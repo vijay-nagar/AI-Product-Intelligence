@@ -1,0 +1,17 @@
+{
+    "product_name": "Magic Mouse",
+    "category": "Mouse",
+    "generation": "2024",
+    "release_year": 2024,
+    "status": "Current",
+    "connectivity": ["Bluetooth", "USB-C"],
+    "features": [
+        "Multi-Touch Surface",
+        "Gesture Support",
+        "Rechargeable Battery"
+    ],
+    "colors": ["White", "Black"],
+    "weight_grams": 99,
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

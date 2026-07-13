@@ -1,0 +1,62 @@
+{
+    "product_name": "MagSafe Charger",
+    "category": "Wireless Charger",
+    "generation": "1st Generation",
+    "model_numbers": ["A2140"],
+    "release_date": "2020-10-13",
+    "release_year": 2020,
+    "status": "Current",
+
+    "compatibility": [
+        "iPhone 12 Series",
+        "iPhone 13 Series",
+        "iPhone 14 Series",
+        "iPhone 15 Series",
+        "iPhone 16 Series",
+        "AirPods with Wireless Charging Case",
+        "AirPods Pro",
+        "AirPods Pro 2"
+    ],
+
+    "connectivity": [],
+
+    "features": [
+        "Magnetic Alignment",
+        "Qi Wireless Charging",
+        "Fast Charging",
+        "15W Wireless Charging",
+        "Apple Optimized Charging"
+    ],
+
+    "colors": [
+        "White"
+    ],
+
+    "dimensions_mm": {
+        "height": 5,
+        "width": 56,
+        "depth": 56
+    },
+
+    "weight_grams": 55,
+
+    "power": {
+        "input_voltage": "5V-9V",
+        "maximum_output_power": "15W",
+        "charging_standard": "Qi",
+        "recommended_adapter": "20W USB-C Power Adapter"
+    },
+
+    "ports": [
+        "USB-C Integrated Cable"
+    ],
+
+    "in_the_box": [
+        "MagSafe Charger",
+        "Integrated USB-C Cable",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

@@ -1,0 +1,135 @@
+{
+    "product_name": "MacBook",
+    "generation": "Retina MacBook (2016)",
+    "model_numbers": [
+        "A1534"
+    ],
+    "release_date": "2016-04-19",
+    "release_year": 2016,
+    "status": "Discontinued",
+
+    "processor": "Intel Core m3-6Y30 / Core m5-6Y54 / Core m7-6Y75",
+    "cpu": "Dual-Core Intel Core m",
+    "gpu": "Intel HD Graphics 515",
+    "ram": "8GB LPDDR3",
+    "storage_options": [
+        "256GB SSD",
+        "512GB SSD"
+    ],
+
+    "operating_system": "OS X El Capitan 10.11.4",
+    "current_supported_os": "macOS Monterey 12",
+
+    "display": {
+        "output_resolution": "2304x1440",
+        "supported_resolutions": [
+            "1280x800",
+            "1440x900",
+            "1680x1050",
+            "2304x1440"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "12-inch Retina IPS Display",
+            "LED-backlit Display"
+        ]
+    },
+
+    "video_features": [
+        "Retina Display",
+        "Intel Quick Sync Video",
+        "External Display Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dual Microphones",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "HEVC",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac Wi-Fi",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "1 x USB-C",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "USB-C"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "Metal API Support"
+    ],
+
+    "supported_services": [
+        "iTunes",
+        "iCloud",
+        "FaceTime",
+        "iMessage",
+        "AirDrop",
+        "AirPlay"
+    ],
+
+    "dimensions_mm": {
+        "height": 13.1,
+        "width": 280.5,
+        "depth": 196.5
+    },
+
+    "weight_grams": 920,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "41.4Wh",
+        "battery_life": "10 Hours Web Browsing"
+    },
+
+    "in_the_box": [
+        "MacBook",
+        "29W USB-C Power Adapter",
+        "USB-C Charging Cable",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "nvidia_gpu": false,
+        "unibody_design": true,
+        "ssd_storage": true,
+        "retina_display": true,
+        "usb_c": true,
+        "touch_bar": false,
+        "apple_silicon": false,
+        "butterfly_keyboard": true,
+        "force_touch_trackpad": true
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

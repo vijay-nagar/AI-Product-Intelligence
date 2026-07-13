@@ -1,0 +1,145 @@
+{
+    "product_name": "MacBook Pro 15-inch",
+    "generation": "2nd Generation",
+    "model_numbers": [
+        "A1226"
+    ],
+    "release_date": "2007-06-05",
+    "release_year": 2007,
+    "status": "Discontinued",
+
+    "processor": "Intel Core 2 Duo T7300/T7500/T7700",
+    "cpu": "Dual-Core Intel Core 2 Duo",
+    "gpu": "NVIDIA GeForce 8600M GT",
+    "ram": "2GB DDR2 667MHz",
+    "storage_options": [
+        "120GB HDD",
+        "160GB HDD",
+        "200GB HDD",
+        "250GB HDD"
+    ],
+
+    "operating_system": "Mac OS X Tiger 10.4.9",
+    "current_supported_os": "Mac OS X Lion 10.7.5",
+
+    "display": {
+        "output_resolution": "1440x900",
+        "supported_resolutions": [
+            "1024x640",
+            "1152x720",
+            "1280x800",
+            "1440x900"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "15.4-inch TFT LCD",
+            "LED Backlit Display",
+            "Glossy Display Option"
+        ]
+    },
+
+    "video_features": [
+        "DVI Output",
+        "Dual Display Support",
+        "Extended Desktop Support",
+        "Built-in iSight Camera"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Built-in Microphone",
+        "Optical Audio Input",
+        "Optical Audio Output",
+        "3.5mm Audio Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "MPEG-4",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 2.0 + EDR",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": false
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 2.0",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "Apple Remote",
+        "voice_control": false,
+        "charging_port": "MagSafe"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "NVIDIA GeForce 8600M GT",
+        "OpenGL Support"
+    ],
+
+    "supported_services": [
+        "Front Row",
+        "iTunes",
+        "iPhoto",
+        "iMovie",
+        "GarageBand"
+    ],
+
+    "dimensions_mm": {
+        "height": 25.9,
+        "width": 357,
+        "depth": 243
+    },
+
+    "weight_grams": 2490,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "60Wh",
+        "battery_life": "5.75 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "85W MagSafe Power Adapter",
+        "AC Wall Plug",
+        "Power Cord",
+        "Documentation",
+        "Restore DVDs"
+    ],
+
+    "historical_features": {
+        "core_2_duo": true,
+        "led_backlit_display": true,
+        "nvidia_gpu": true,
+        "magsafe": true,
+        "isight_camera": true,
+        "expresscard_slot": true,
+        "retina_display": false,
+        "thunderbolt": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

@@ -1,0 +1,52 @@
+{
+    "product_name": "Apple 70W USB-C Power Adapter",
+    "category": "Power Adapter",
+    "generation": "70W",
+    "model_numbers": ["A2743"],
+    "release_date": "2022-06-06",
+    "release_year": 2022,
+    "status": "Current",
+
+    "compatibility": [
+        "MacBook Air M2",
+        "MacBook Pro 14",
+        "MacBook Pro 13"
+    ],
+
+    "connectivity": [],
+    "features": [
+        "Fast Charging",
+        "USB Power Delivery",
+        "Rapid Charging Support"
+    ],
+
+    "colors": [
+        "White"
+    ],
+
+    "dimensions_mm": {
+        "height": 67,
+        "width": 67,
+        "depth": 31
+    },
+
+    "weight_grams": 220,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "maximum_output_power": "70W"
+    },
+
+    "ports": [
+        "1 x USB-C"
+    ],
+
+    "in_the_box": [
+        "70W USB-C Power Adapter",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

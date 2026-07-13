@@ -1,0 +1,54 @@
+{
+    "product_name": "Thunderbolt 5 Pro Cable",
+    "category": "Cable",
+    "generation": "Thunderbolt 5",
+    "model_numbers": ["MU883AM/A"],
+    "release_date": "2024-11-08",
+    "release_year": 2024,
+    "status": "Current",
+
+    "compatibility": [
+        "MacBook Pro M4 Pro",
+        "MacBook Pro M4 Max",
+        "Mac Studio",
+        "Pro Display XDR"
+    ],
+
+    "connectivity": [
+        "Thunderbolt 5",
+        "USB4",
+        "USB-C"
+    ],
+
+    "features": [
+        "120Gbps Data Transfer",
+        "240W Power Delivery",
+        "8K Display Support",
+        "Daisy Chaining"
+    ],
+
+    "colors": ["Black"],
+
+    "dimensions_mm": {
+        "height": 0,
+        "width": 0,
+        "depth": 1000
+    },
+
+    "weight_grams": 130,
+
+    "power": {
+        "maximum_output_power": "240W"
+    },
+
+    "ports": [
+        "USB-C to USB-C"
+    ],
+
+    "in_the_box": [
+        "Thunderbolt 5 Pro Cable"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+    "product_name": "Magic Keyboard with Touch ID",
+    "category": "Keyboard",
+    "generation": "2021",
+    "release_year": 2021,
+    "status": "Current",
+    "connectivity": ["Bluetooth", "USB-C"],
+    "features": [
+        "Touch ID",
+        "Backlit Keys",
+        "Rechargeable Battery",
+        "Multi Device Support"
+    ],
+    "colors": ["White", "Black"],
+    "weight_grams": 243,
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

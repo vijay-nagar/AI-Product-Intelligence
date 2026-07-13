@@ -1,0 +1,144 @@
+{
+    "product_name": "MacBook Pro 15-inch Retina",
+    "generation": "4th Retina Generation",
+    "model_numbers": [
+        "A1398"
+    ],
+    "release_date": "2015-05-19",
+    "release_year": 2015,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i7-4770HQ / i7-4870HQ / i7-4980HQ",
+    "cpu": "Quad-Core Intel Core i7 (Haswell Refresh)",
+    "gpu": "Intel Iris Pro 5200 + AMD Radeon R9 M370X",
+    "ram": "16GB LPDDR3 1600MHz",
+    "storage_options": [
+        "256GB PCIe SSD",
+        "512GB PCIe SSD",
+        "1TB PCIe SSD"
+    ],
+
+    "operating_system": "OS X Yosemite",
+    "current_supported_os": "macOS Monterey",
+
+    "display": {
+        "output_resolution": "2880x1800",
+        "supported_resolutions": [
+            "1440x900",
+            "1680x1050",
+            "1920x1200",
+            "2880x1800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "Retina Display",
+            "IPS",
+            "LED Backlit",
+            "220 PPI"
+        ]
+    },
+
+    "video_features": [
+        "Retina Display",
+        "Thunderbolt 2",
+        "HDMI Output",
+        "Dual External Display Support",
+        "4K External Display Support",
+        "FaceTime HD Camera"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dual Microphones",
+        "Dual Noise Reduction Microphones",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV",
+        "ALAC"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "1 x HDMI",
+        "usb": "2 x USB 3.0",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe 2"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "AMD Radeon R9 M370X",
+        "Metal Support",
+        "OpenGL Support"
+    ],
+
+    "supported_services": [
+        "FaceTime",
+        "AirDrop",
+        "AirPlay",
+        "Handoff",
+        "Continuity",
+        "iCloud",
+        "iTunes"
+    ],
+
+    "dimensions_mm": {
+        "height": 18,
+        "width": 359,
+        "depth": 247
+    },
+
+    "weight_grams": 2040,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "99.5Wh",
+        "battery_life": "9 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro Retina",
+        "85W MagSafe 2 Power Adapter",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "force_touch_trackpad": true,
+        "pcie_ssd_gen2": true,
+        "amd_radeon_r9": true,
+        "thunderbolt_2": true,
+        "retina_display": true,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

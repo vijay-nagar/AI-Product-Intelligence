@@ -1,0 +1,148 @@
+{
+    "product_name": "MacBook Pro 13-inch",
+    "generation": "M2 Generation",
+    "model_numbers": [
+        "A2338"
+    ],
+    "release_date": "2022-06-24",
+    "release_year": 2022,
+    "status": "Discontinued",
+
+    "processor": "Apple M2",
+    "cpu": "8-Core CPU",
+    "gpu": "10-Core GPU",
+    "ram": "8GB / 16GB / 24GB Unified Memory",
+    "storage_options": [
+        "256GB SSD",
+        "512GB SSD",
+        "1TB SSD",
+        "2TB SSD"
+    ],
+
+    "operating_system": "macOS Monterey",
+    "current_supported_os": "macOS Tahoe",
+
+    "display": {
+        "output_resolution": "2560x1600",
+        "supported_resolutions": [
+            "1280x800",
+            "1440x900",
+            "1680x1050",
+            "1920x1200",
+            "2560x1600"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "Retina Display",
+            "IPS",
+            "P3 Wide Color",
+            "True Tone",
+            "500 Nits Brightness"
+        ]
+    },
+
+    "video_features": [
+        "Hardware H.264",
+        "Hardware HEVC",
+        "ProRes Encode",
+        "ProRes Decode",
+        "6K External Display Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Dolby Atmos",
+        "Studio Quality Three-Microphone Array",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "HEVC",
+        "ProRes",
+        "AAC",
+        "ALAC",
+        "FLAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "Wi-Fi 6",
+        "bluetooth": "Bluetooth 5.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x Thunderbolt / USB 4",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "Touch Bar",
+        "voice_control": true,
+        "charging_port": "USB-C"
+    },
+
+    "smart_home_features": [
+        "Siri"
+    ],
+
+    "gaming_features": [
+        "Metal 3",
+        "Apple Arcade",
+        "Game Mode"
+    ],
+
+    "supported_services": [
+        "AirDrop",
+        "AirPlay",
+        "FaceTime",
+        "Apple Music",
+        "Apple TV+",
+        "Apple Arcade",
+        "iCloud",
+        "Apple Pay"
+    ],
+
+    "dimensions_mm": {
+        "height": 15.6,
+        "width": 304.1,
+        "depth": 212.4
+    },
+
+    "weight_grams": 1400,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "58.2Wh",
+        "battery_life": "20 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "67W USB-C Power Adapter",
+        "USB-C Charge Cable",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "m2_chip": true,
+        "media_engine": true,
+        "prores_engine": true,
+        "24gb_unified_memory": true,
+        "final_touch_bar_macbook": true,
+        "apple_silicon": true
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

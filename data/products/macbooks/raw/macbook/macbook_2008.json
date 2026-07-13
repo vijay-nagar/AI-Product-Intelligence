@@ -1,0 +1,129 @@
+{
+    "product_name": "MacBook",
+    "generation": "3rd Generation Unibody",
+    "model_numbers": [
+        "A1278"
+    ],
+    "release_date": "2008-10-14",
+    "release_year": 2008,
+    "status": "Discontinued",
+
+    "processor": "Intel Core 2 Duo P7350/P8400",
+    "cpu": "Dual-Core Intel Core 2 Duo",
+    "gpu": "NVIDIA GeForce 9400M",
+    "ram": "2GB DDR3",
+    "storage_options": [
+        "160GB HDD",
+        "250GB HDD"
+    ],
+
+    "operating_system": "Mac OS X Leopard 10.5.5",
+    "current_supported_os": "OS X El Capitan 10.11.6",
+
+    "display": {
+        "output_resolution": "1280x800",
+        "supported_resolutions": [
+            "800x600",
+            "1024x768",
+            "1280x800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch LED-backlit Glossy Display"
+        ]
+    },
+
+    "video_features": [
+        "Mini DisplayPort Output",
+        "Extended Desktop Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Built-in Microphone",
+        "3.5mm Audio Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 2.1 + EDR",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": false
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 2.0",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": ""
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "NVIDIA GeForce 9400M GPU",
+        "OpenGL Support"
+    ],
+
+    "supported_services": [
+        "iTunes",
+        "iPhoto",
+        "iMovie",
+        "GarageBand"
+    ],
+
+    "dimensions_mm": {
+        "height": 24.1,
+        "width": 325,
+        "depth": 227
+    },
+
+    "weight_grams": 2040,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "45Wh",
+        "battery_life": "5 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook",
+        "60W MagSafe Power Adapter",
+        "Power Cord",
+        "Documentation",
+        "Restore DVDs"
+    ],
+
+    "historical_features": {
+        "nvidia_gpu": true,
+        "unibody_design": true,
+        "ssd_storage": false,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

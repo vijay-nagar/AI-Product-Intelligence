@@ -1,0 +1,196 @@
+{
+    "product_name": "MacBook Pro 16-inch",
+    "generation": "Apple Silicon M4 Max Generation",
+    "model_numbers": [
+        "A3403"
+    ],
+    "release_date": "2024-11-08",
+    "release_year": 2024,
+    "status": "Active",
+
+    "processor": "Apple M4 Max",
+    "cpu": "14-Core CPU / 16-Core CPU",
+    "gpu": "32-Core GPU / 40-Core GPU",
+    "ram": "36GB / 48GB / 64GB / 128GB Unified Memory",
+    "storage_options": [
+        "1TB SSD",
+        "2TB SSD",
+        "4TB SSD",
+        "8TB SSD"
+    ],
+
+    "operating_system": "macOS Sequoia",
+    "current_supported_os": "macOS Tahoe",
+
+    "display": {
+        "output_resolution": "3456x2234",
+        "supported_resolutions": [
+            "1728x1117",
+            "2234x1440",
+            "3024x1964",
+            "3456x2234"
+        ],
+        "refresh_rates": [
+            "24Hz",
+            "30Hz",
+            "48Hz",
+            "60Hz",
+            "120Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "Liquid Retina XDR",
+            "Mini-LED",
+            "ProMotion 120Hz",
+            "P3 Wide Color",
+            "True Tone",
+            "Nano Texture Option",
+            "1000 Nits Sustained Brightness",
+            "1600 Nits Peak HDR Brightness",
+            "1000 Nits SDR Brightness",
+            "254 PPI"
+        ]
+    },
+
+    "video_features": [
+        "Hardware Ray Tracing",
+        "Dynamic Caching",
+        "Mesh Shading",
+        "AV1 Decode",
+        "AV1 Encode",
+        "ProRes Encode",
+        "ProRes Decode",
+        "8K External Display Support",
+        "Multiple 6K Display Support",
+        "HDMI 2.1 Support",
+        "12MP Center Stage Camera",
+        "Desk View Support"
+    ],
+
+    "audio_features": [
+        "Six Speaker High Fidelity Audio",
+        "Force Cancelling Woofers",
+        "Spatial Audio",
+        "Dolby Atmos",
+        "Wide Stereo Sound",
+        "Studio Quality Three Microphone Array",
+        "Voice Isolation",
+        "Wide Spectrum Mode",
+        "High Impedance Headphone Support"
+    ],
+
+    "supported_codecs": [
+        "AV1",
+        "H.264",
+        "HEVC",
+        "ProRes",
+        "ProRes RAW",
+        "AAC",
+        "ALAC",
+        "FLAC",
+        "MP3",
+        "WAV",
+        "AIFF"
+    ],
+
+    "connectivity": {
+        "wifi": "Wi-Fi 7 (802.11be)",
+        "bluetooth": "Bluetooth 5.3",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "HDMI 2.1",
+        "usb": "3 x Thunderbolt 5 / USB-C",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": true,
+        "charging_port": "MagSafe 3"
+    },
+
+    "smart_home_features": [
+        "Siri",
+        "Hey Siri",
+        "Apple Home Integration"
+    ],
+
+    "gaming_features": [
+        "Hardware Ray Tracing",
+        "Dynamic Caching",
+        "Mesh Shading",
+        "Metal 3",
+        "Game Mode",
+        "Apple Arcade",
+        "Hardware Accelerated Upscaling",
+        "Unified Memory Architecture"
+    ],
+
+    "supported_services": [
+        "AirDrop",
+        "AirPlay",
+        "FaceTime",
+        "Apple Music",
+        "Apple TV+",
+        "Apple Arcade",
+        "Apple Fitness+",
+        "Apple News+",
+        "iCloud",
+        "iMessage",
+        "Apple Pay"
+    ],
+
+    "dimensions_mm": {
+        "height": 16.8,
+        "width": 355.7,
+        "depth": 248.1
+    },
+
+    "weight_grams": 2150,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "100Wh",
+        "battery_life": "24 Hours Video Playback"
+    },
+
+    "price": {
+        "usa_starting_price_usd": 3499,
+        "india_starting_price_inr": 349900,
+        "max_configuration_price_usd": 7199,
+        "max_configuration_price_inr": 719900
+    },
+
+    "in_the_box": [
+        "MacBook Pro 16-inch",
+        "140W USB-C Power Adapter",
+        "USB-C to MagSafe 3 Cable",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "m4_max": true,
+        "thunderbolt_5": true,
+        "wifi_7": true,
+        "hardware_ray_tracing": true,
+        "dynamic_caching": true,
+        "mesh_shading": true,
+        "liquid_retina_xdr": true,
+        "mini_led": true,
+        "promotion_120hz": true,
+        "magsafe_3": true,
+        "hdmi_2_1": true,
+        "sd_card_slot": true,
+        "apple_silicon": true
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

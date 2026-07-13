@@ -1,0 +1,104 @@
+{
+    "product_name": "HomePod",
+    "generation": "1st Generation",
+    "model_numbers": ["A1639"],
+    "release_date": "2018-02-09",
+    "release_year": 2018,
+    "status": "Discontinued",
+
+    "processor": "Apple A8",
+    "cpu": "64-bit Dual-Core",
+    "gpu": "PowerVR GX6450",
+    "ram": "1GB",
+    "storage_options": ["16GB"],
+
+    "operating_system": "audioOS",
+    "current_supported_os": "HomePod Software 18",
+
+    "display": {
+        "output_resolution": "N/A",
+        "supported_resolutions": [],
+        "refresh_rates": [],
+        "aspect_ratio": "",
+        "display_technologies": [
+            "LED Touch Display"
+        ]
+    },
+
+    "video_features": [],
+
+    "audio_features": [
+        "7 Tweeters",
+        "High Excursion Woofer",
+        "Beamforming",
+        "Spatial Awareness",
+        "Computational Audio",
+        "Stereo Pair Support"
+    ],
+
+    "supported_codecs": [
+        "AAC",
+        "Apple Lossless",
+        "FLAC",
+        "MP3"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11ac Wi-Fi",
+        "bluetooth": "Bluetooth 5.0",
+        "ethernet": false,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "",
+        "optical_audio": false,
+        "ethernet": false
+    },
+
+    "remote": {
+        "name": "Touch Surface",
+        "voice_control": true,
+        "charging_port": ""
+    },
+
+    "smart_home_features": [
+        "HomeKit Hub",
+        "Siri",
+        "Intercom",
+        "Multiroom Audio"
+    ],
+
+    "gaming_features": [],
+
+    "supported_services": [
+        "Apple Music",
+        "AirPlay",
+        "Podcasts",
+        "Radio"
+    ],
+
+    "dimensions_mm": {
+        "height": 172,
+        "width": 142,
+        "depth": 142
+    },
+
+    "weight_grams": 2500,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz"
+    },
+
+    "in_the_box": [
+        "HomePod",
+        "Documentation"
+    ],
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

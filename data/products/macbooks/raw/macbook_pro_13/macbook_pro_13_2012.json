@@ -1,0 +1,139 @@
+{
+    "product_name": "MacBook Pro 13-inch",
+    "generation": "4th Generation",
+    "model_numbers": [
+        "A1278"
+    ],
+    "release_date": "2012-06-11",
+    "release_year": 2012,
+    "status": "Discontinued",
+
+    "processor": "Intel Core i5-3210M / Core i7-3520M",
+    "cpu": "Dual-Core Intel Core i5/i7 (Ivy Bridge)",
+    "gpu": "Intel HD Graphics 4000",
+    "ram": "4GB DDR3 1600MHz",
+    "storage_options": [
+        "500GB HDD",
+        "750GB HDD",
+        "128GB SSD CTO",
+        "256GB SSD CTO",
+        "512GB SSD CTO"
+    ],
+
+    "operating_system": "OS X Mountain Lion",
+    "current_supported_os": "macOS Catalina 10.15.7",
+
+    "display": {
+        "output_resolution": "1280x800",
+        "supported_resolutions": [
+            "800x600",
+            "1024x768",
+            "1152x720",
+            "1280x800"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "13.3-inch LED-backlit Glossy Display"
+        ]
+    },
+
+    "video_features": [
+        "Thunderbolt",
+        "Mini DisplayPort",
+        "FaceTime HD Camera",
+        "Dual Display Support",
+        "External Monitor Support"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Built-in Microphone",
+        "3.5mm Headphone Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 4.0",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": true
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 3.0",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "",
+        "voice_control": false,
+        "charging_port": "MagSafe"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "Intel Quick Sync Video",
+        "OpenGL Support",
+        "Metal Support"
+    ],
+
+    "supported_services": [
+        "FaceTime",
+        "AirDrop",
+        "AirPlay",
+        "iCloud",
+        "iTunes",
+        "Game Center"
+    ],
+
+    "dimensions_mm": {
+        "height": 24.1,
+        "width": 325,
+        "depth": 227
+    },
+
+    "weight_grams": 2060,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "63.5Wh",
+        "battery_life": "7 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "60W MagSafe Power Adapter",
+        "Power Cord",
+        "Documentation"
+    ],
+
+    "historical_features": {
+        "ivy_bridge": true,
+        "usb_3": true,
+        "thunderbolt": true,
+        "retina_display": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false,
+        "last_upgradable_macbook_pro": true
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}

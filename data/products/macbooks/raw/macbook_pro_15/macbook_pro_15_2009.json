@@ -1,0 +1,145 @@
+{
+    "product_name": "MacBook Pro 15-inch",
+    "generation": "Unibody Second Generation",
+    "model_numbers": [
+        "A1286"
+    ],
+    "release_date": "2009-06-08",
+    "release_year": 2009,
+    "status": "Discontinued",
+
+    "processor": "Intel Core 2 Duo P8700/P8800/T9600",
+    "cpu": "Dual-Core Intel Core 2 Duo",
+    "gpu": "NVIDIA GeForce 9400M + NVIDIA GeForce 9600M GT",
+    "ram": "4GB DDR3 1066MHz",
+    "storage_options": [
+        "250GB HDD",
+        "320GB HDD",
+        "500GB HDD",
+        "256GB SSD CTO"
+    ],
+
+    "operating_system": "Mac OS X Snow Leopard",
+    "current_supported_os": "OS X El Capitan 10.11.6",
+
+    "display": {
+        "output_resolution": "1440x900",
+        "supported_resolutions": [
+            "1024x640",
+            "1152x720",
+            "1280x800",
+            "1440x900"
+        ],
+        "refresh_rates": [
+            "60Hz"
+        ],
+        "aspect_ratio": "16:10",
+        "display_technologies": [
+            "15.4-inch LED Backlit Display",
+            "Glossy Display",
+            "Anti-Glare Option"
+        ]
+    },
+
+    "video_features": [
+        "Mini DisplayPort",
+        "Dual Display Support",
+        "External Monitor Support",
+        "Dynamic GPU Switching",
+        "Built-in iSight Camera"
+    ],
+
+    "audio_features": [
+        "Stereo Speakers",
+        "Built-in Microphone",
+        "Optical Audio Input",
+        "Optical Audio Output",
+        "3.5mm Audio Jack"
+    ],
+
+    "supported_codecs": [
+        "H.264",
+        "MPEG-4",
+        "AAC",
+        "MP3",
+        "AIFF",
+        "WAV"
+    ],
+
+    "connectivity": {
+        "wifi": "802.11a/b/g/n",
+        "bluetooth": "Bluetooth 2.1 + EDR",
+        "ethernet": true,
+        "thread_support": false,
+        "matter_support": false,
+        "airplay": false
+    },
+
+    "ports": {
+        "hdmi": "",
+        "usb": "2 x USB 2.0",
+        "optical_audio": true,
+        "ethernet": true
+    },
+
+    "remote": {
+        "name": "Apple Remote",
+        "voice_control": false,
+        "charging_port": "MagSafe"
+    },
+
+    "smart_home_features": [],
+
+    "gaming_features": [
+        "Dedicated NVIDIA Graphics",
+        "OpenGL Support",
+        "Automatic GPU Switching"
+    ],
+
+    "supported_services": [
+        "Front Row",
+        "iTunes",
+        "iPhoto",
+        "iMovie",
+        "GarageBand"
+    ],
+
+    "dimensions_mm": {
+        "height": 24.1,
+        "width": 364,
+        "depth": 249
+    },
+
+    "weight_grams": 2490,
+
+    "power": {
+        "input_voltage": "100-240V",
+        "frequency": "50-60Hz",
+        "battery_capacity": "73Wh",
+        "battery_life": "7 Hours"
+    },
+
+    "in_the_box": [
+        "MacBook Pro",
+        "85W MagSafe Power Adapter",
+        "Power Cord",
+        "Documentation",
+        "Restore DVDs"
+    ],
+
+    "historical_features": {
+        "non_removable_battery": true,
+        "sd_card_slot": true,
+        "gpu_switching": true,
+        "unibody_design": true,
+        "mini_displayport": true,
+        "retina_display": false,
+        "thunderbolt": false,
+        "usb_c": false,
+        "touch_bar": false,
+        "apple_silicon": false
+    },
+
+    "source": "Apple Official Specifications",
+    "data_version": "1.0"
+}
