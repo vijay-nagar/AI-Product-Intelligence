@@ -1,0 +1,57 @@
+{
+    "name": "Apple iPhone 6s",
+    "brand": "Apple",
+    "display_inches": 4.7,
+    "ram_gb": 2,
+    "storage_options_gb": [
+        64,
+        128
+    ],
+    "battery_mah": 1715,
+    "weight_g": 143.0,
+    "price_usd": null,
+    "ios_version": "9",
+    "max_ios_version": "15.8",
+    "chip_name": "Apple A9",
+    "fabrication_nm": 16,
+    "gpu_cores": null,
+    "refresh_rate_hz": null,
+    "peak_brightness_nits": 500,
+    "water_resistance": null,
+    "ceramic_shield": null,
+    "dimensions": {
+        "height_mm": 138.3,
+        "width_mm": 67.1,
+        "thickness_mm": 7.1
+    },
+    "resolution": {
+        "width": 750,
+        "height": 1334
+    },
+    "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": false
+    },
+    "sim": {
+        "sim_type": "Nano-SIM",
+        "esim": false
+    },
+    "colors": [
+        "Space Gray",
+        "Silver",
+        "Gold",
+        "Rose Gold"
+    ],
+    "sensors": [
+        "Fingerprint (front-mounted)",
+        "accelerometer",
+        "gyro",
+        "proximity",
+        "compass",
+        "barometer"
+    ],
+    "memory_card_supported": false
+}

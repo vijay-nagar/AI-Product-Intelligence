@@ -1,0 +1,59 @@
+{
+    "name": "Apple iPhone 7",
+    "brand": "Apple",
+    "display_inches": 4.7,
+    "ram_gb": 2,
+    "storage_options_gb": [
+        128,
+        256
+    ],
+    "battery_mah": 1960,
+    "weight_g": 138.0,
+    "price_usd": null,
+    "ios_version": "10.0",
+    "max_ios_version": "15.8",
+    "chip_name": "Apple A10 Fusion",
+    "fabrication_nm": 16,
+    "gpu_cores": null,
+    "refresh_rate_hz": null,
+    "peak_brightness_nits": 625,
+    "water_resistance": "IP67",
+    "ceramic_shield": null,
+    "dimensions": {
+        "height_mm": 138.3,
+        "width_mm": 67.1,
+        "thickness_mm": 7.1
+    },
+    "resolution": {
+        "width": 750,
+        "height": 1334
+    },
+    "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": false
+    },
+    "sim": {
+        "sim_type": "Nano-SIM",
+        "esim": false
+    },
+    "colors": [
+        "Jet Black",
+        "Black",
+        "Silver",
+        "Gold",
+        "Rose Gold",
+        "Red"
+    ],
+    "sensors": [
+        "Fingerprint (front-mounted)",
+        "accelerometer",
+        "gyro",
+        "proximity",
+        "compass",
+        "barometer"
+    ],
+    "memory_card_supported": false
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Apple iPhone",
+    "brand": "Apple",
+    "display_inches": 3.5,
+    "ram_gb": null,
+    "storage_options_gb": [],
+    "battery_mah": 1400,
+    "weight_g": 135.0,
+    "price_usd": null,
+    "ios_version": "3.1",
+    "max_ios_version": "3.1",
+    "chip_name": null,
+    "fabrication_nm": null,
+    "gpu_cores": null,
+    "refresh_rate_hz": null,
+    "peak_brightness_nits": null,
+    "water_resistance": null,
+    "ceramic_shield": null,
+    "dimensions": {
+        "height_mm": 115.0,
+        "width_mm": 61.0,
+        "thickness_mm": 11.6
+    },
+    "resolution": {
+        "width": 320,
+        "height": 480
+    },
+    "network": {
+        "technology": "GSM",
+        "2g": true,
+        "3g": false,
+        "4g": false,
+        "5g": false
+    },
+    "sim": {
+        "sim_type": null,
+        "esim": false
+    },
+    "colors": [
+        "Black"
+    ],
+    "sensors": [
+        "Accelerometer",
+        "proximity"
+    ],
+    "memory_card_supported": false
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Apple iPhone X",
+    "brand": "Apple",
+    "display_inches": 5.8,
+    "ram_gb": 3,
+    "storage_options_gb": [
+        64,
+        256
+    ],
+    "battery_mah": 2716,
+    "weight_g": 174.0,
+    "price_usd": null,
+    "ios_version": "11.1",
+    "max_ios_version": null,
+    "chip_name": "Apple A11 Bionic",
+    "fabrication_nm": 10,
+    "gpu_cores": null,
+    "refresh_rate_hz": null,
+    "peak_brightness_nits": 625,
+    "water_resistance": "IP67",
+    "ceramic_shield": null,
+    "dimensions": {
+        "height_mm": 143.6,
+        "width_mm": 70.9,
+        "thickness_mm": 7.7
+    },
+    "resolution": {
+        "width": 1125,
+        "height": 2436
+    },
+    "network": {
+        "technology": "GSM / HSPA / LTE",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": false
+    },
+    "sim": {
+        "sim_type": "Nano-SIM",
+        "esim": false
+    },
+    "colors": [
+        "Space Gray",
+        "Silver"
+    ],
+    "sensors": [
+        "Face ID",
+        "accelerometer",
+        "gyro",
+        "proximity",
+        "compass",
+        "barometer"
+    ],
+    "memory_card_supported": false
+}

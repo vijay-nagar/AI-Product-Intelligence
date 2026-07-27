@@ -1,0 +1,86 @@
+{
+    "name": {
+        "target_field": "product_name",
+        "type": "string"
+    },
+
+    "specifications.Launch.Announced": {
+        "target_field": "announced_date",
+        "type": "string"
+    },
+
+    "specifications.Launch.Status": {
+        "target_field": "release_status",
+        "type": "string"
+    },
+
+    "specifications.Display.Size": {
+        "target_field": "display_size_inches",
+        "type": "float"
+    },
+
+    "specifications.Display.Type": {
+        "target_field": "display_type",
+        "type": "string"
+    },
+
+    "specifications.Platform.OS": {
+        "target_field": "operating_system",
+        "type": "string"
+    },
+
+    "specifications.Platform.Chipset": {
+        "target_field": "chipset",
+        "type": "string"
+    },
+
+    "specifications.Platform.CPU": {
+        "target_field": "cpu",
+        "type": "string"
+    },
+
+    "specifications.Platform.GPU": {
+        "target_field": "gpu",
+        "type": "string"
+    },
+
+    "specifications.Memory.Internal": {
+        "target_field": "storage_and_ram",
+        "type": "string"
+    },
+
+    "specifications.Battery.Type": {
+        "target_field": "battery",
+        "type": "string"
+    },
+
+    "specifications.Battery.Charging": {
+        "target_field": "charging",
+        "type": "string"
+    },
+
+    "specifications.Comms.WLAN": {
+        "target_field": "wifi",
+        "type": "string"
+    },
+
+    "specifications.Comms.Bluetooth": {
+        "target_field": "bluetooth",
+        "type": "string"
+    },
+
+    "specifications.Comms.USB": {
+        "target_field": "usb",
+        "type": "string"
+    },
+
+    "specifications.Misc.Colors": {
+        "target_field": "colors",
+        "type": "list"
+    },
+
+    "specifications.Misc.Price": {
+        "target_field": "price",
+        "type": "float"
+    }
+}

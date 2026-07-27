@@ -1,0 +1,60 @@
+{
+    "name": "Apple iPhone 12",
+    "brand": "Apple",
+    "display_inches": 6.1,
+    "ram_gb": 4,
+    "storage_options_gb": [
+        64,
+        128,
+        256
+    ],
+    "battery_mah": 2815,
+    "weight_g": 164.0,
+    "price_usd": 191.5,
+    "ios_version": "14.1",
+    "max_ios_version": "26.5",
+    "chip_name": "Apple A14 Bionic",
+    "fabrication_nm": 5,
+    "gpu_cores": 4,
+    "refresh_rate_hz": null,
+    "peak_brightness_nits": 625,
+    "water_resistance": "IP68",
+    "ceramic_shield": null,
+    "dimensions": {
+        "height_mm": 146.7,
+        "width_mm": 71.5,
+        "thickness_mm": 7.4
+    },
+    "resolution": {
+        "width": 1170,
+        "height": 2532
+    },
+    "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": true
+    },
+    "sim": {
+        "sim_type": "Nano-SIM",
+        "esim": true
+    },
+    "colors": [
+        "Black",
+        "White",
+        "Red",
+        "Green",
+        "Blue",
+        "Purple"
+    ],
+    "sensors": [
+        "Face ID",
+        "accelerometer",
+        "gyro",
+        "proximity",
+        "compass",
+        "barometer"
+    ],
+    "memory_card_supported": false
+}

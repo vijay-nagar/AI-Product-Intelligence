@@ -1,0 +1,50 @@
+{
+    "name": "Apple iPhone 4",
+    "brand": "Apple",
+    "display_inches": 3.5,
+    "ram_gb": null,
+    "storage_options_gb": [],
+    "battery_mah": 1420,
+    "weight_g": 137.0,
+    "price_usd": null,
+    "ios_version": "4",
+    "max_ios_version": "7.1",
+    "chip_name": "Apple A4",
+    "fabrication_nm": 45,
+    "gpu_cores": null,
+    "refresh_rate_hz": null,
+    "peak_brightness_nits": null,
+    "water_resistance": null,
+    "ceramic_shield": null,
+    "dimensions": {
+        "height_mm": 115.2,
+        "width_mm": 58.6,
+        "thickness_mm": 9.3
+    },
+    "resolution": {
+        "width": 640,
+        "height": 960
+    },
+    "network": {
+        "technology": "GSM / HSPA",
+        "2g": true,
+        "3g": true,
+        "4g": false,
+        "5g": false
+    },
+    "sim": {
+        "sim_type": null,
+        "esim": false
+    },
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "sensors": [
+        "Accelerometer",
+        "gyro",
+        "proximity",
+        "compass"
+    ],
+    "memory_card_supported": false
+}
