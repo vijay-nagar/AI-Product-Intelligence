@@ -1,56 +1,76 @@
 {
-    "name": "Apple iPhone 6",
-    "brand": "Apple",
-    "display_inches": 4.7,
-    "ram_gb": 1,
-    "storage_options_gb": [
-        64,
-        128
-    ],
-    "battery_mah": 1810,
-    "weight_g": 129.0,
-    "price_usd": null,
-    "ios_version": "8",
-    "max_ios_version": "12.5",
-    "chip_name": "Apple A8",
-    "fabrication_nm": 20,
-    "gpu_cores": null,
-    "refresh_rate_hz": null,
-    "peak_brightness_nits": null,
-    "water_resistance": null,
-    "ceramic_shield": null,
-    "dimensions": {
-        "height_mm": 138.1,
-        "width_mm": 67.0,
-        "thickness_mm": 6.9
-    },
-    "resolution": {
-        "width": 750,
-        "height": 1334
+    "basic": {
+        "name": "Apple iPhone 6",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / CDMA / HSPA / EVDO / LTE",
         "2g": true,
         "3g": true,
         "4g": true,
-        "5g": false
+        "5g": false,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": false
+        }
     },
-    "sim": {
-        "sim_type": "Nano-SIM",
-        "esim": false
+    "body": {
+        "dimensions": {
+            "height_mm": 138.1,
+            "width_mm": 67.0,
+            "thickness_mm": 6.9
+        },
+        "weight_g": 129.0,
+        "water_resistance": null,
+        "colors": [
+            "Space Gray",
+            "Silver",
+            "Gold"
+        ]
     },
-    "colors": [
-        "Space Gray",
-        "Silver",
-        "Gold"
-    ],
-    "sensors": [
-        "Fingerprint (front-mounted)",
-        "accelerometer",
-        "gyro",
-        "proximity",
-        "compass",
-        "barometer"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 4.7,
+        "resolution": {
+            "width_px": 750,
+            "height_px": 1334
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "8",
+        "max_ios_version": "12.5",
+        "chip_name": "Apple A8",
+        "fabrication_nm": 20,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": 1,
+        "storage_options_gb": [
+            64,
+            128
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 1810
+    },
+    "features": {
+        "sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
 }

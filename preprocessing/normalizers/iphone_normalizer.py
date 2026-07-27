@@ -35,8 +35,9 @@ def normalize_product(raw_data):
 # ==========================================================
 
     name = safe_get(raw_data, ["name"])
+    brand = "Apple"
 
-    brand = safe_get(raw_data, ["brand"])
+    # brand = safe_get(raw_data, ["brand"])
 
     release_date = safe_get(raw_data, ["release_date"])
 

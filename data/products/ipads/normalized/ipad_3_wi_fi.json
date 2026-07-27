@@ -1,0 +1,71 @@
+{
+    "basic": {
+        "name": "Apple iPad 3 Wi-Fi",
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
+    },
+    "network": {
+        "technology": "No cellular connectivity",
+        "2g": false,
+        "3g": false,
+        "4g": false,
+        "5g": false,
+        "sim": {
+            "sim_type": null,
+            "esim": false
+        }
+    },
+    "body": {
+        "dimensions": {
+            "height_mm": 241.2,
+            "width_mm": 185.7,
+            "thickness_mm": 9.4
+        },
+        "weight_g": 652.0,
+        "water_resistance": null,
+        "colors": [
+            "Black",
+            "White"
+        ]
+    },
+    "display": {
+        "size_inches": 9.7,
+        "resolution": {
+            "width_px": 1536,
+            "height_px": 2048
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "5.1",
+        "max_ios_version": "9.3",
+        "chip_name": "Apple A5X",
+        "fabrication_nm": 45,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": 1,
+        "storage_options_gb": [
+            64
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 11560
+    },
+    "features": {
+        "sensors": [
+            "Accelerometer",
+            "gyro",
+            "compass"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
+}

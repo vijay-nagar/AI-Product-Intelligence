@@ -1,0 +1,55 @@
+{
+    "basic": {
+        "name": null,
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": "2008-10-14",
+        "status": "Discontinued"
+    },
+    "network": {
+        "technology": null,
+        "2g": null,
+        "3g": null,
+        "4g": null,
+        "5g": null,
+        "sim": {
+            "sim_type": null,
+            "esim": false
+        }
+    },
+    "body": {
+        "dimensions": null,
+        "weight_g": null,
+        "water_resistance": null,
+        "colors": []
+    },
+    "display": {
+        "size_inches": null,
+        "resolution": null,
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": null,
+        "max_ios_version": null,
+        "chip_name": null,
+        "fabrication_nm": null,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": null,
+        "storage_options_gb": [],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": null
+    },
+    "features": {
+        "sensors": []
+    },
+    "price": {
+        "usd": null
+    }
+}

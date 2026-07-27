@@ -1,53 +1,73 @@
 {
-    "name": "Apple iPhone 5c",
-    "brand": "Apple",
-    "display_inches": 4.0,
-    "ram_gb": 1,
-    "storage_options_gb": [],
-    "battery_mah": 1510,
-    "weight_g": 132.0,
-    "price_usd": null,
-    "ios_version": "7",
-    "max_ios_version": "10.3",
-    "chip_name": "Apple A6",
-    "fabrication_nm": 32,
-    "gpu_cores": null,
-    "refresh_rate_hz": null,
-    "peak_brightness_nits": null,
-    "water_resistance": null,
-    "ceramic_shield": null,
-    "dimensions": {
-        "height_mm": 124.4,
-        "width_mm": 59.2,
-        "thickness_mm": 9.0
-    },
-    "resolution": {
-        "width": 640,
-        "height": 1136
+    "basic": {
+        "name": "Apple iPhone 5c",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / CDMA / HSPA / LTE",
         "2g": true,
         "3g": true,
         "4g": true,
-        "5g": false
+        "5g": false,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": false
+        }
     },
-    "sim": {
-        "sim_type": "Nano-SIM",
-        "esim": false
+    "body": {
+        "dimensions": {
+            "height_mm": 124.4,
+            "width_mm": 59.2,
+            "thickness_mm": 9.0
+        },
+        "weight_g": 132.0,
+        "water_resistance": null,
+        "colors": [
+            "White",
+            "Blue",
+            "Green",
+            "Yellow",
+            "Pink"
+        ]
     },
-    "colors": [
-        "White",
-        "Blue",
-        "Green",
-        "Yellow",
-        "Pink"
-    ],
-    "sensors": [
-        "Accelerometer",
-        "gyro",
-        "proximity",
-        "compass"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 4.0,
+        "resolution": {
+            "width_px": 640,
+            "height_px": 1136
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "7",
+        "max_ios_version": "10.3",
+        "chip_name": "Apple A6",
+        "fabrication_nm": 32,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": 1,
+        "storage_options_gb": [],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 1510
+    },
+    "features": {
+        "sensors": [
+            "Accelerometer",
+            "gyro",
+            "proximity",
+            "compass"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
 }

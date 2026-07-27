@@ -1,48 +1,68 @@
 {
-    "name": "Apple iPhone 3G",
-    "brand": "Apple",
-    "display_inches": 3.5,
-    "ram_gb": null,
-    "storage_options_gb": [],
-    "battery_mah": 1220,
-    "weight_g": 133.0,
-    "price_usd": null,
-    "ios_version": "4.2",
-    "max_ios_version": "4.2",
-    "chip_name": null,
-    "fabrication_nm": null,
-    "gpu_cores": null,
-    "refresh_rate_hz": null,
-    "peak_brightness_nits": null,
-    "water_resistance": null,
-    "ceramic_shield": null,
-    "dimensions": {
-        "height_mm": 115.5,
-        "width_mm": 62.1,
-        "thickness_mm": 12.3
-    },
-    "resolution": {
-        "width": 320,
-        "height": 480
+    "basic": {
+        "name": "Apple iPhone 3G",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / HSPA",
         "2g": true,
         "3g": true,
         "4g": false,
-        "5g": false
+        "5g": false,
+        "sim": {
+            "sim_type": null,
+            "esim": false
+        }
     },
-    "sim": {
-        "sim_type": null,
-        "esim": false
+    "body": {
+        "dimensions": {
+            "height_mm": 115.5,
+            "width_mm": 62.1,
+            "thickness_mm": 12.3
+        },
+        "weight_g": 133.0,
+        "water_resistance": null,
+        "colors": [
+            "Black(8/16 GB)",
+            "White (16 GB)"
+        ]
     },
-    "colors": [
-        "Black(8/16 GB)",
-        "White (16 GB)"
-    ],
-    "sensors": [
-        "Accelerometer",
-        "proximity"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 3.5,
+        "resolution": {
+            "width_px": 320,
+            "height_px": 480
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "4.2",
+        "max_ios_version": "4.2",
+        "chip_name": null,
+        "fabrication_nm": null,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": null,
+        "storage_options_gb": [],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 1220
+    },
+    "features": {
+        "sensors": [
+            "Accelerometer",
+            "proximity"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
 }

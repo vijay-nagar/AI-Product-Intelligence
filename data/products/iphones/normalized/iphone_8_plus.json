@@ -1,58 +1,78 @@
 {
-    "name": "Apple iPhone 8 Plus",
-    "brand": "Apple",
-    "display_inches": 5.5,
-    "ram_gb": 3,
-    "storage_options_gb": [
-        64,
-        128,
-        256
-    ],
-    "battery_mah": 2691,
-    "weight_g": 202.0,
-    "price_usd": null,
-    "ios_version": "11",
-    "max_ios_version": null,
-    "chip_name": "Apple A11 Bionic",
-    "fabrication_nm": 10,
-    "gpu_cores": null,
-    "refresh_rate_hz": null,
-    "peak_brightness_nits": 625,
-    "water_resistance": "IP67",
-    "ceramic_shield": null,
-    "dimensions": {
-        "height_mm": 158.4,
-        "width_mm": 78.1,
-        "thickness_mm": 7.5
-    },
-    "resolution": {
-        "width": 1080,
-        "height": 1920
+    "basic": {
+        "name": "Apple iPhone 8 Plus",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / HSPA / LTE",
         "2g": true,
         "3g": true,
         "4g": true,
-        "5g": false
+        "5g": false,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": false
+        }
     },
-    "sim": {
-        "sim_type": "Nano-SIM",
-        "esim": false
+    "body": {
+        "dimensions": {
+            "height_mm": 158.4,
+            "width_mm": 78.1,
+            "thickness_mm": 7.5
+        },
+        "weight_g": 202.0,
+        "water_resistance": "IP67",
+        "colors": [
+            "Gold",
+            "Space Gray",
+            "Silver",
+            "Red"
+        ]
     },
-    "colors": [
-        "Gold",
-        "Space Gray",
-        "Silver",
-        "Red"
-    ],
-    "sensors": [
-        "Fingerprint (front-mounted)",
-        "accelerometer",
-        "gyro",
-        "proximity",
-        "compass",
-        "barometer"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 5.5,
+        "resolution": {
+            "width_px": 1080,
+            "height_px": 1920
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": 625,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "11",
+        "max_ios_version": null,
+        "chip_name": "Apple A11 Bionic",
+        "fabrication_nm": 10,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": 3,
+        "storage_options_gb": [
+            64,
+            128,
+            256
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 2691
+    },
+    "features": {
+        "sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
 }

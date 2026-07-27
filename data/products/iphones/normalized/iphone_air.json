@@ -1,58 +1,78 @@
 {
-    "name": "Apple iPhone Air",
-    "brand": "Apple",
-    "display_inches": 6.5,
-    "ram_gb": 12,
-    "storage_options_gb": [
-        256,
-        512,
-        1024
-    ],
-    "battery_mah": 3149,
-    "weight_g": 165.0,
-    "price_usd": 789.83,
-    "ios_version": "26",
-    "max_ios_version": "26.5",
-    "chip_name": "Apple A19 Pro",
-    "fabrication_nm": 3,
-    "gpu_cores": 5,
-    "refresh_rate_hz": 120,
-    "peak_brightness_nits": 1000,
-    "water_resistance": "IP68",
-    "ceramic_shield": 2,
-    "dimensions": {
-        "height_mm": 156.2,
-        "width_mm": 74.7,
-        "thickness_mm": 5.6
-    },
-    "resolution": {
-        "width": 1260,
-        "height": 2736
+    "basic": {
+        "name": "Apple iPhone Air",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
         "2g": true,
         "3g": true,
         "4g": true,
-        "5g": true
+        "5g": true,
+        "sim": {
+            "sim_type": null,
+            "esim": true
+        }
     },
-    "sim": {
-        "sim_type": null,
-        "esim": true
+    "body": {
+        "dimensions": {
+            "height_mm": 156.2,
+            "width_mm": 74.7,
+            "thickness_mm": 5.6
+        },
+        "weight_g": 165.0,
+        "water_resistance": "IP68",
+        "colors": [
+            "Space Black",
+            "Cloud White",
+            "Light Gold",
+            "Sky Blue"
+        ]
     },
-    "colors": [
-        "Space Black",
-        "Cloud White",
-        "Light Gold",
-        "Sky Blue"
-    ],
-    "sensors": [
-        "Face ID",
-        "accelerometer",
-        "gyro",
-        "proximity",
-        "compass",
-        "barometer"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 6.5,
+        "resolution": {
+            "width_px": 1260,
+            "height_px": 2736
+        },
+        "refresh_rate_hz": 120,
+        "peak_brightness_nits": 1000,
+        "ceramic_shield": 2
+    },
+    "platform": {
+        "ios_version": "26",
+        "max_ios_version": "26.5",
+        "chip_name": "Apple A19 Pro",
+        "fabrication_nm": 3,
+        "gpu_cores": 5
+    },
+    "memory": {
+        "ram_gb": 12,
+        "storage_options_gb": [
+            256,
+            512,
+            1024
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 3149
+    },
+    "features": {
+        "sensors": [
+            "Face ID",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": 789.83
+    }
 }

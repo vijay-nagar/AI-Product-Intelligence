@@ -1,0 +1,76 @@
+{
+    "basic": {
+        "name": "Apple iPad Pro 11 (2020)",
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
+    },
+    "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": false,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
+    },
+    "body": {
+        "dimensions": {
+            "height_mm": 247.6,
+            "width_mm": 178.5,
+            "thickness_mm": 5.9
+        },
+        "weight_g": 471.0,
+        "water_resistance": null,
+        "colors": [
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    "display": {
+        "size_inches": 11.0,
+        "resolution": {
+            "width_px": 1668,
+            "height_px": 2388
+        },
+        "refresh_rate_hz": 120,
+        "peak_brightness_nits": 600,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": null,
+        "max_ios_version": null,
+        "chip_name": "Apple A12Z Bionic",
+        "fabrication_nm": null,
+        "gpu_cores": 8
+    },
+    "memory": {
+        "ram_gb": 6,
+        "storage_options_gb": [
+            128,
+            256,
+            512,
+            1024
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 7538
+    },
+    "features": {
+        "sensors": [
+            "Face ID",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
+}

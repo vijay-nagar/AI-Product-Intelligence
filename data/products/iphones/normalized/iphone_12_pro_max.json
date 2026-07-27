@@ -1,58 +1,78 @@
 {
-    "name": "Apple iPhone 12 Pro Max",
-    "brand": "Apple",
-    "display_inches": 6.7,
-    "ram_gb": 6,
-    "storage_options_gb": [
-        128,
-        256,
-        512
-    ],
-    "battery_mah": 3687,
-    "weight_g": 228.0,
-    "price_usd": 322.26,
-    "ios_version": "14.1",
-    "max_ios_version": "26.5",
-    "chip_name": "Apple A14 Bionic",
-    "fabrication_nm": 5,
-    "gpu_cores": 4,
-    "refresh_rate_hz": null,
-    "peak_brightness_nits": 800,
-    "water_resistance": "IP68",
-    "ceramic_shield": null,
-    "dimensions": {
-        "height_mm": 160.8,
-        "width_mm": 78.1,
-        "thickness_mm": 7.4
-    },
-    "resolution": {
-        "width": 1284,
-        "height": 2778
+    "basic": {
+        "name": "Apple iPhone 12 Pro Max",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
         "2g": true,
         "3g": true,
         "4g": true,
-        "5g": true
+        "5g": true,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
     },
-    "sim": {
-        "sim_type": "Nano-SIM",
-        "esim": true
+    "body": {
+        "dimensions": {
+            "height_mm": 160.8,
+            "width_mm": 78.1,
+            "thickness_mm": 7.4
+        },
+        "weight_g": 228.0,
+        "water_resistance": "IP68",
+        "colors": [
+            "Silver",
+            "Graphite",
+            "Gold",
+            "Pacific Blue"
+        ]
     },
-    "colors": [
-        "Silver",
-        "Graphite",
-        "Gold",
-        "Pacific Blue"
-    ],
-    "sensors": [
-        "Face ID",
-        "accelerometer",
-        "gyro",
-        "proximity",
-        "compass",
-        "barometer"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 6.7,
+        "resolution": {
+            "width_px": 1284,
+            "height_px": 2778
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": 800,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "14.1",
+        "max_ios_version": "26.5",
+        "chip_name": "Apple A14 Bionic",
+        "fabrication_nm": 5,
+        "gpu_cores": 4
+    },
+    "memory": {
+        "ram_gb": 6,
+        "storage_options_gb": [
+            128,
+            256,
+            512
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 3687
+    },
+    "features": {
+        "sensors": [
+            "Face ID",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": 322.26
+    }
 }

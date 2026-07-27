@@ -1,0 +1,77 @@
+{
+    "basic": {
+        "name": "Apple iPad Air (2022)",
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
+    },
+    "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": true,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
+    },
+    "body": {
+        "dimensions": {
+            "height_mm": 247.6,
+            "width_mm": 178.5,
+            "thickness_mm": 6.1
+        },
+        "weight_g": 461.0,
+        "water_resistance": null,
+        "colors": [
+            "Space Gray",
+            "Starlight",
+            "Pink",
+            "Purple",
+            "Blue"
+        ]
+    },
+    "display": {
+        "size_inches": 10.9,
+        "resolution": {
+            "width_px": 1640,
+            "height_px": 2360
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": 500,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": null,
+        "max_ios_version": null,
+        "chip_name": "Apple M1",
+        "fabrication_nm": null,
+        "gpu_cores": 8
+    },
+    "memory": {
+        "ram_gb": 8,
+        "storage_options_gb": [
+            64,
+            256
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 7600
+    },
+    "features": {
+        "sensors": [
+            "Fingerprint (top-mounted)",
+            "accelerometer",
+            "gyro",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
+}

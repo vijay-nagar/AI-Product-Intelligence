@@ -1,56 +1,76 @@
 {
-    "name": "Apple iPhone 16e",
-    "brand": "Apple",
-    "display_inches": 6.1,
-    "ram_gb": 8,
-    "storage_options_gb": [
-        128,
-        256,
-        512
-    ],
-    "battery_mah": 4005,
-    "weight_g": 167.0,
-    "price_usd": 405.95,
-    "ios_version": "18.3",
-    "max_ios_version": "26.5",
-    "chip_name": "Apple A18",
-    "fabrication_nm": 3,
-    "gpu_cores": 4,
-    "refresh_rate_hz": null,
-    "peak_brightness_nits": 800,
-    "water_resistance": "IP68",
-    "ceramic_shield": null,
-    "dimensions": {
-        "height_mm": 146.7,
-        "width_mm": 71.5,
-        "thickness_mm": 7.8
-    },
-    "resolution": {
-        "width": 1170,
-        "height": 2532
+    "basic": {
+        "name": "Apple iPhone 16e",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / HSPA / LTE / 5G",
         "2g": true,
         "3g": true,
         "4g": true,
-        "5g": true
+        "5g": true,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
     },
-    "sim": {
-        "sim_type": "Nano-SIM",
-        "esim": true
+    "body": {
+        "dimensions": {
+            "height_mm": 146.7,
+            "width_mm": 71.5,
+            "thickness_mm": 7.8
+        },
+        "weight_g": 167.0,
+        "water_resistance": "IP68",
+        "colors": [
+            "Black",
+            "White"
+        ]
     },
-    "colors": [
-        "Black",
-        "White"
-    ],
-    "sensors": [
-        "Face ID",
-        "accelerometer",
-        "gyro",
-        "proximity",
-        "compass",
-        "barometer"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 6.1,
+        "resolution": {
+            "width_px": 1170,
+            "height_px": 2532
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": 800,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "18.3",
+        "max_ios_version": "26.5",
+        "chip_name": "Apple A18",
+        "fabrication_nm": 3,
+        "gpu_cores": 4
+    },
+    "memory": {
+        "ram_gb": 8,
+        "storage_options_gb": [
+            128,
+            256,
+            512
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 4005
+    },
+    "features": {
+        "sensors": [
+            "Face ID",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": 405.95
+    }
 }

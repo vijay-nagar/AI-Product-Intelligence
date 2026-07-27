@@ -1,0 +1,68 @@
+{
+    "basic": {
+        "name": "Apple iPad Wi-Fi",
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
+    },
+    "network": {
+        "technology": "No cellular connectivity",
+        "2g": false,
+        "3g": false,
+        "4g": false,
+        "5g": false,
+        "sim": {
+            "sim_type": null,
+            "esim": false
+        }
+    },
+    "body": {
+        "dimensions": {
+            "height_mm": 242.8,
+            "width_mm": 189.7,
+            "thickness_mm": 13.4
+        },
+        "weight_g": 680.0,
+        "water_resistance": null,
+        "colors": [
+            "Silver"
+        ]
+    },
+    "display": {
+        "size_inches": 9.7,
+        "resolution": {
+            "width_px": 768,
+            "height_px": 1024
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "4",
+        "max_ios_version": "5.1",
+        "chip_name": "Apple A4",
+        "fabrication_nm": 45,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": null,
+        "storage_options_gb": [
+            64
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 6600
+    },
+    "features": {
+        "sensors": [
+            "Accelerometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
+}

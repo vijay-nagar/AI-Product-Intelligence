@@ -1,0 +1,74 @@
+{
+    "basic": {
+        "name": "Apple iPad 9.7 (2017)",
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
+    },
+    "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": false,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
+    },
+    "body": {
+        "dimensions": {
+            "height_mm": 240.0,
+            "width_mm": 169.5,
+            "thickness_mm": 7.5
+        },
+        "weight_g": 469.0,
+        "water_resistance": null,
+        "colors": [
+            "Silver",
+            "Gold",
+            "Space Gray"
+        ]
+    },
+    "display": {
+        "size_inches": 9.7,
+        "resolution": {
+            "width_px": 1536,
+            "height_px": 2048
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "10.3",
+        "max_ios_version": null,
+        "chip_name": "Apple A9",
+        "fabrication_nm": 14,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": 2,
+        "storage_options_gb": [
+            128
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 8827
+    },
+    "features": {
+        "sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
+}

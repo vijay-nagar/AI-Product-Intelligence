@@ -1,0 +1,4079 @@
+[
+    {
+        "basic": {
+            "name": "Apple iPhone",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM",
+            "2g": true,
+            "3g": false,
+            "4g": false,
+            "5g": false,
+            "sim": {
+                "sim_type": null,
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 115.0,
+                "width_mm": 61.0,
+                "thickness_mm": 11.6
+            },
+            "weight_g": 135.0,
+            "water_resistance": null,
+            "colors": [
+                "Black"
+            ]
+        },
+        "display": {
+            "size_inches": 3.5,
+            "resolution": {
+                "width_px": 320,
+                "height_px": 480
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "3.1",
+            "max_ios_version": "3.1",
+            "chip_name": null,
+            "fabrication_nm": null,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": null,
+            "storage_options_gb": [],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1400
+        },
+        "features": {
+            "sensors": [
+                "Accelerometer",
+                "proximity"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 11",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 150.9,
+                "width_mm": 75.7,
+                "thickness_mm": 8.3
+            },
+            "weight_g": 194.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "Green",
+                "Yellow",
+                "Purple",
+                "Red",
+                "White"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 828,
+                "height_px": 1792
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "13",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A13 Bionic",
+            "fabrication_nm": 7,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                64,
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3110
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 173.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 11 Pro",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 144.0,
+                "width_mm": 71.4,
+                "thickness_mm": 8.1
+            },
+            "weight_g": 188.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Matte Space Gray",
+                "Matte Silver",
+                "Matte Gold",
+                "Matte Midnight Green"
+            ]
+        },
+        "display": {
+            "size_inches": 5.8,
+            "resolution": {
+                "width_px": 1125,
+                "height_px": 2436
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "13",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A13 Bionic",
+            "fabrication_nm": 7,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                64,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3046
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 11 Pro Max",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 158.0,
+                "width_mm": 77.8,
+                "thickness_mm": 8.1
+            },
+            "weight_g": 226.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Matte Space Gray",
+                "Matte Silver",
+                "Matte Gold",
+                "Matte Midnight Green"
+            ]
+        },
+        "display": {
+            "size_inches": 6.5,
+            "resolution": {
+                "width_px": 1242,
+                "height_px": 2688
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "13",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A13 Bionic",
+            "fabrication_nm": 7,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                64,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3969
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 215.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 12",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 146.7,
+                "width_mm": 71.5,
+                "thickness_mm": 7.4
+            },
+            "weight_g": 164.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "White",
+                "Red",
+                "Green",
+                "Blue",
+                "Purple"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1170,
+                "height_px": 2532
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "14.1",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A14 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                64,
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2815
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 191.5
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 12 mini",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 131.5,
+                "width_mm": 64.2,
+                "thickness_mm": 7.4
+            },
+            "weight_g": 135.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "White",
+                "Red",
+                "Green",
+                "Blue",
+                "Purple"
+            ]
+        },
+        "display": {
+            "size_inches": 5.4,
+            "resolution": {
+                "width_px": 1080,
+                "height_px": 2340
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "14.1",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A14 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                64,
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2227
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 157.5
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 12 Pro",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 146.7,
+                "width_mm": 71.5,
+                "thickness_mm": 7.4
+            },
+            "weight_g": 189.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Silver",
+                "Graphite",
+                "Gold",
+                "Pacific Blue"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1170,
+                "height_px": 2532
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "14.1",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A14 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2815
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 268.95
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 12 Pro Max",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 160.8,
+                "width_mm": 78.1,
+                "thickness_mm": 7.4
+            },
+            "weight_g": 228.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Silver",
+                "Graphite",
+                "Gold",
+                "Pacific Blue"
+            ]
+        },
+        "display": {
+            "size_inches": 6.7,
+            "resolution": {
+                "width_px": 1284,
+                "height_px": 2778
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "14.1",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A14 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3687
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 322.26
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 13",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 146.7,
+                "width_mm": 71.5,
+                "thickness_mm": 7.7
+            },
+            "weight_g": 174.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Starlight",
+                "Midnight",
+                "Blue",
+                "Pink",
+                "Red",
+                "Green"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1170,
+                "height_px": 2532
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "15",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A15 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3240
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 248.46
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 13 mini",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 131.5,
+                "width_mm": 64.2,
+                "thickness_mm": 7.7
+            },
+            "weight_g": 141.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Starlight",
+                "Midnight",
+                "Blue",
+                "Pink",
+                "Red",
+                "Green"
+            ]
+        },
+        "display": {
+            "size_inches": 5.4,
+            "resolution": {
+                "width_px": 1080,
+                "height_px": 2340
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "15",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A15 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2438
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 225.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 13 Pro",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 146.7,
+                "width_mm": 71.5,
+                "thickness_mm": 7.7
+            },
+            "weight_g": 204.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Graphite",
+                "Gold",
+                "Silver",
+                "Sierra Blue",
+                "Alpine Green"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1170,
+                "height_px": 2532
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "15",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A15 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3095
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 358.97
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 13 Pro Max",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 160.8,
+                "width_mm": 78.1,
+                "thickness_mm": 7.7
+            },
+            "weight_g": 240.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Graphite",
+                "Gold",
+                "Silver",
+                "Sierra Blue",
+                "Alpine Green"
+            ]
+        },
+        "display": {
+            "size_inches": 6.7,
+            "resolution": {
+                "width_px": 1284,
+                "height_px": 2778
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "15",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A15 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4352
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 445.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 14",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 146.7,
+                "width_mm": 71.5,
+                "thickness_mm": 7.8
+            },
+            "weight_g": 172.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Midnight",
+                "Purple",
+                "Starlight",
+                "Blue",
+                "Red",
+                "Yellow"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1170,
+                "height_px": 2532
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "16",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A15 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3279
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 272.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 14 Plus",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 160.8,
+                "width_mm": 78.1,
+                "thickness_mm": 7.8
+            },
+            "weight_g": 203.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Midnight",
+                "Purple",
+                "Starlight",
+                "Blue",
+                "Red",
+                "Yellow"
+            ]
+        },
+        "display": {
+            "size_inches": 6.7,
+            "resolution": {
+                "width_px": 1284,
+                "height_px": 2778
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "16",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A15 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4323
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 310.94
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 14 Pro",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 147.5,
+                "width_mm": 71.5,
+                "thickness_mm": 7.9
+            },
+            "weight_g": 206.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Space Black",
+                "Silver",
+                "Gold",
+                "Deep Purple"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1179,
+                "height_px": 2556
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "16",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A16 Bionic",
+            "fabrication_nm": 4,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3200
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 435.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 14 Pro Max",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 160.7,
+                "width_mm": 77.6,
+                "thickness_mm": 7.9
+            },
+            "weight_g": 240.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Space Black",
+                "Silver",
+                "Gold",
+                "Deep Purple"
+            ]
+        },
+        "display": {
+            "size_inches": 6.7,
+            "resolution": {
+                "width_px": 1290,
+                "height_px": 2796
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "16",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A16 Bionic",
+            "fabrication_nm": 4,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4323
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 476.19
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 15",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 147.6,
+                "width_mm": 71.6,
+                "thickness_mm": 7.8
+            },
+            "weight_g": 171.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "Blue",
+                "Green",
+                "Yellow",
+                "Pink"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1179,
+                "height_px": 2556
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "17",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A16 Bionic",
+            "fabrication_nm": 4,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3349
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 375.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 15 Plus",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 160.9,
+                "width_mm": 77.8,
+                "thickness_mm": 7.8
+            },
+            "weight_g": 201.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "Blue",
+                "Green",
+                "Yellow",
+                "Pink"
+            ]
+        },
+        "display": {
+            "size_inches": 6.7,
+            "resolution": {
+                "width_px": 1290,
+                "height_px": 2796
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "17",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A16 Bionic",
+            "fabrication_nm": 4,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 6,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4383
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 394.44
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 15 Pro",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 146.6,
+                "width_mm": 70.6,
+                "thickness_mm": 8.3
+            },
+            "weight_g": 187.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black Titanium",
+                "White Titanium",
+                "Blue Titanium",
+                "Natural Titanium"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1179,
+                "height_px": 2556
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "17",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A17 Pro",
+            "fabrication_nm": 3,
+            "gpu_cores": 6
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                128,
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3274
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 484.34
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 15 Pro Max",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 159.9,
+                "width_mm": 76.7,
+                "thickness_mm": 8.3
+            },
+            "weight_g": 221.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black Titanium",
+                "White Titanium",
+                "Blue Titanium",
+                "Natural Titanium"
+            ]
+        },
+        "display": {
+            "size_inches": 6.7,
+            "resolution": {
+                "width_px": 1290,
+                "height_px": 2796
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "17",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A17 Pro",
+            "fabrication_nm": 3,
+            "gpu_cores": 6
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4441
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 554.44
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 16",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 147.6,
+                "width_mm": 71.6,
+                "thickness_mm": 7.8
+            },
+            "weight_g": 170.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "White",
+                "Pink",
+                "Teal",
+                "Ultramarine"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1179,
+                "height_px": 2556
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "18",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A18",
+            "fabrication_nm": 3,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3561
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 574.3
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 16 Plus",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 160.9,
+                "width_mm": 77.8,
+                "thickness_mm": 7.8
+            },
+            "weight_g": 199.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "White",
+                "Pink",
+                "Teal",
+                "Ultramarine"
+            ]
+        },
+        "display": {
+            "size_inches": 6.7,
+            "resolution": {
+                "width_px": 1290,
+                "height_px": 2796
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "18",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A18",
+            "fabrication_nm": 3,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4674
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 494.67
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 16 Pro",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 149.6,
+                "width_mm": 71.5,
+                "thickness_mm": 8.3
+            },
+            "weight_g": 199.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black Titanium",
+                "White Titanium",
+                "Natural Titanium",
+                "Desert Titanium"
+            ]
+        },
+        "display": {
+            "size_inches": 6.3,
+            "resolution": {
+                "width_px": 1206,
+                "height_px": 2622
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "18",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A18 Pro",
+            "fabrication_nm": 3,
+            "gpu_cores": 6
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                128,
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3582
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 588.78
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 16 Pro Max",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 163.0,
+                "width_mm": 77.6,
+                "thickness_mm": 8.3
+            },
+            "weight_g": 227.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black Titanium",
+                "White Titanium",
+                "Natural Titanium",
+                "Desert Titanium"
+            ]
+        },
+        "display": {
+            "size_inches": 6.9,
+            "resolution": {
+                "width_px": 1320,
+                "height_px": 2868
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "18",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A18 Pro",
+            "fabrication_nm": 3,
+            "gpu_cores": 6
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4685
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 734.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 16e",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / HSPA / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 146.7,
+                "width_mm": 71.5,
+                "thickness_mm": 7.8
+            },
+            "weight_g": 167.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "White"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1170,
+                "height_px": 2532
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "18.3",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A18",
+            "fabrication_nm": 3,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                128,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4005
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 405.95
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 17",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 149.6,
+                "width_mm": 71.5,
+                "thickness_mm": 8.0
+            },
+            "weight_g": 177.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "White",
+                "Mist Blue",
+                "Sage",
+                "Lavender"
+            ]
+        },
+        "display": {
+            "size_inches": 6.3,
+            "resolution": {
+                "width_px": 1206,
+                "height_px": 2622
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": 2
+        },
+        "platform": {
+            "ios_version": "26",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A19",
+            "fabrication_nm": 3,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3692
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 640.98
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 17 Pro",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 150.0,
+                "width_mm": 71.9,
+                "thickness_mm": 8.8
+            },
+            "weight_g": 206.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Silver",
+                "Cosmic Orange",
+                "Deep Blue"
+            ]
+        },
+        "display": {
+            "size_inches": 6.3,
+            "resolution": {
+                "width_px": 1206,
+                "height_px": 2622
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": 2
+        },
+        "platform": {
+            "ios_version": "26",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A19 Pro",
+            "fabrication_nm": 3,
+            "gpu_cores": 6
+        },
+        "memory": {
+            "ram_gb": 12,
+            "storage_options_gb": [
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3998
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 888.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 17 Pro Max",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 163.4,
+                "width_mm": 78.0,
+                "thickness_mm": 8.8
+            },
+            "weight_g": 233.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Silver",
+                "Cosmic Orange",
+                "Deep Blue"
+            ]
+        },
+        "display": {
+            "size_inches": 6.9,
+            "resolution": {
+                "width_px": 1320,
+                "height_px": 2868
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": 2
+        },
+        "platform": {
+            "ios_version": "26",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A19 Pro",
+            "fabrication_nm": 3,
+            "gpu_cores": 6
+        },
+        "memory": {
+            "ram_gb": 12,
+            "storage_options_gb": [
+                256,
+                512,
+                1024,
+                2048
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4823
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 939.26
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 17e",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / HSPA / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 146.7,
+                "width_mm": 71.5,
+                "thickness_mm": 7.8
+            },
+            "weight_g": 169.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Black",
+                "White",
+                "Soft Pink"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 1170,
+                "height_px": 2532
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 800,
+            "ceramic_shield": 2
+        },
+        "platform": {
+            "ios_version": "26.3",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A19",
+            "fabrication_nm": 3,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 8,
+            "storage_options_gb": [
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 4005
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 539.95
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 3G",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / HSPA",
+            "2g": true,
+            "3g": true,
+            "4g": false,
+            "5g": false,
+            "sim": {
+                "sim_type": null,
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 115.5,
+                "width_mm": 62.1,
+                "thickness_mm": 12.3
+            },
+            "weight_g": 133.0,
+            "water_resistance": null,
+            "colors": [
+                "Black(8/16 GB)",
+                "White (16 GB)"
+            ]
+        },
+        "display": {
+            "size_inches": 3.5,
+            "resolution": {
+                "width_px": 320,
+                "height_px": 480
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "4.2",
+            "max_ios_version": "4.2",
+            "chip_name": null,
+            "fabrication_nm": null,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": null,
+            "storage_options_gb": [],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1220
+        },
+        "features": {
+            "sensors": [
+                "Accelerometer",
+                "proximity"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 3GS",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / HSPA",
+            "2g": true,
+            "3g": true,
+            "4g": false,
+            "5g": false,
+            "sim": {
+                "sim_type": null,
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 115.5,
+                "width_mm": 62.1,
+                "thickness_mm": 12.3
+            },
+            "weight_g": 135.0,
+            "water_resistance": null,
+            "colors": [
+                "Black",
+                "White"
+            ]
+        },
+        "display": {
+            "size_inches": 3.5,
+            "resolution": {
+                "width_px": 320,
+                "height_px": 480
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "3",
+            "max_ios_version": "6.1",
+            "chip_name": null,
+            "fabrication_nm": null,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": null,
+            "storage_options_gb": [],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1400
+        },
+        "features": {
+            "sensors": [
+                "Accelerometer",
+                "proximity",
+                "compass"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 4",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / HSPA",
+            "2g": true,
+            "3g": true,
+            "4g": false,
+            "5g": false,
+            "sim": {
+                "sim_type": null,
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 115.2,
+                "width_mm": 58.6,
+                "thickness_mm": 9.3
+            },
+            "weight_g": 137.0,
+            "water_resistance": null,
+            "colors": [
+                "Black",
+                "White"
+            ]
+        },
+        "display": {
+            "size_inches": 3.5,
+            "resolution": {
+                "width_px": 640,
+                "height_px": 960
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "4",
+            "max_ios_version": "7.1",
+            "chip_name": "Apple A4",
+            "fabrication_nm": 45,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": null,
+            "storage_options_gb": [],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1420
+        },
+        "features": {
+            "sensors": [
+                "Accelerometer",
+                "gyro",
+                "proximity",
+                "compass"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 4 CDMA",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "CDMA / EVDO",
+            "2g": false,
+            "3g": false,
+            "4g": false,
+            "5g": false,
+            "sim": {
+                "sim_type": null,
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 115.2,
+                "width_mm": 58.6,
+                "thickness_mm": 9.3
+            },
+            "weight_g": 137.0,
+            "water_resistance": null,
+            "colors": [
+                "Black",
+                "White"
+            ]
+        },
+        "display": {
+            "size_inches": 3.5,
+            "resolution": {
+                "width_px": 640,
+                "height_px": 960
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "4",
+            "max_ios_version": "7.1",
+            "chip_name": "Apple A4",
+            "fabrication_nm": 45,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": null,
+            "storage_options_gb": [],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1420
+        },
+        "features": {
+            "sensors": [
+                "Accelerometer",
+                "gyro",
+                "proximity",
+                "compass"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 4s",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO",
+            "2g": true,
+            "3g": true,
+            "4g": false,
+            "5g": false,
+            "sim": {
+                "sim_type": null,
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 115.2,
+                "width_mm": 58.6,
+                "thickness_mm": 9.3
+            },
+            "weight_g": 140.0,
+            "water_resistance": null,
+            "colors": [
+                "Black",
+                "White"
+            ]
+        },
+        "display": {
+            "size_inches": 3.5,
+            "resolution": {
+                "width_px": 640,
+                "height_px": 960
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "5",
+            "max_ios_version": "9.3",
+            "chip_name": "Apple A5",
+            "fabrication_nm": 45,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": null,
+            "storage_options_gb": [
+                64
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1432
+        },
+        "features": {
+            "sensors": [
+                "Accelerometer",
+                "gyro",
+                "proximity",
+                "compass"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 5",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 123.8,
+                "width_mm": 58.6,
+                "thickness_mm": 7.6
+            },
+            "weight_g": 112.0,
+            "water_resistance": null,
+            "colors": [
+                "Black/Slate",
+                "White/Silver"
+            ]
+        },
+        "display": {
+            "size_inches": 4.0,
+            "resolution": {
+                "width_px": 640,
+                "height_px": 1136
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "6",
+            "max_ios_version": "10.3",
+            "chip_name": "Apple A6",
+            "fabrication_nm": 32,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 1,
+            "storage_options_gb": [
+                64
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1440
+        },
+        "features": {
+            "sensors": [
+                "Accelerometer",
+                "gyro",
+                "proximity",
+                "compass"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 5c",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 124.4,
+                "width_mm": 59.2,
+                "thickness_mm": 9.0
+            },
+            "weight_g": 132.0,
+            "water_resistance": null,
+            "colors": [
+                "White",
+                "Blue",
+                "Green",
+                "Yellow",
+                "Pink"
+            ]
+        },
+        "display": {
+            "size_inches": 4.0,
+            "resolution": {
+                "width_px": 640,
+                "height_px": 1136
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "7",
+            "max_ios_version": "10.3",
+            "chip_name": "Apple A6",
+            "fabrication_nm": 32,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 1,
+            "storage_options_gb": [],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1510
+        },
+        "features": {
+            "sensors": [
+                "Accelerometer",
+                "gyro",
+                "proximity",
+                "compass"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 5s",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 123.8,
+                "width_mm": 58.6,
+                "thickness_mm": 7.6
+            },
+            "weight_g": 112.0,
+            "water_resistance": null,
+            "colors": [
+                "Space Gray",
+                "White/Silver",
+                "Gold"
+            ]
+        },
+        "display": {
+            "size_inches": 4.0,
+            "resolution": {
+                "width_px": 640,
+                "height_px": 1136
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "7",
+            "max_ios_version": "12.5",
+            "chip_name": "Apple A7",
+            "fabrication_nm": 28,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 1,
+            "storage_options_gb": [
+                64
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1560
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 6",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 138.1,
+                "width_mm": 67.0,
+                "thickness_mm": 6.9
+            },
+            "weight_g": 129.0,
+            "water_resistance": null,
+            "colors": [
+                "Space Gray",
+                "Silver",
+                "Gold"
+            ]
+        },
+        "display": {
+            "size_inches": 4.7,
+            "resolution": {
+                "width_px": 750,
+                "height_px": 1334
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "8",
+            "max_ios_version": "12.5",
+            "chip_name": "Apple A8",
+            "fabrication_nm": 20,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 1,
+            "storage_options_gb": [
+                64,
+                128
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1810
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 6 Plus",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 158.1,
+                "width_mm": 77.8,
+                "thickness_mm": 7.1
+            },
+            "weight_g": 172.0,
+            "water_resistance": null,
+            "colors": [
+                "Space Gray",
+                "Silver",
+                "Gold"
+            ]
+        },
+        "display": {
+            "size_inches": 5.5,
+            "resolution": {
+                "width_px": 1080,
+                "height_px": 1920
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "8",
+            "max_ios_version": "12.5",
+            "chip_name": "Apple A8",
+            "fabrication_nm": 20,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 1,
+            "storage_options_gb": [
+                64,
+                128
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2915
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 6s",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 138.3,
+                "width_mm": 67.1,
+                "thickness_mm": 7.1
+            },
+            "weight_g": 143.0,
+            "water_resistance": null,
+            "colors": [
+                "Space Gray",
+                "Silver",
+                "Gold",
+                "Rose Gold"
+            ]
+        },
+        "display": {
+            "size_inches": 4.7,
+            "resolution": {
+                "width_px": 750,
+                "height_px": 1334
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 500,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "9",
+            "max_ios_version": "15.8",
+            "chip_name": "Apple A9",
+            "fabrication_nm": 16,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 2,
+            "storage_options_gb": [
+                64,
+                128
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1715
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 6s Plus",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 158.2,
+                "width_mm": 77.9,
+                "thickness_mm": 7.3
+            },
+            "weight_g": 192.0,
+            "water_resistance": null,
+            "colors": [
+                "Space Gray",
+                "Silver",
+                "Gold",
+                "Rose Gold"
+            ]
+        },
+        "display": {
+            "size_inches": 5.5,
+            "resolution": {
+                "width_px": 1080,
+                "height_px": 1920
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "9",
+            "max_ios_version": "15.8",
+            "chip_name": "Apple A9",
+            "fabrication_nm": 16,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 2,
+            "storage_options_gb": [
+                64,
+                128
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2750
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 7",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 138.3,
+                "width_mm": 67.1,
+                "thickness_mm": 7.1
+            },
+            "weight_g": 138.0,
+            "water_resistance": "IP67",
+            "colors": [
+                "Jet Black",
+                "Black",
+                "Silver",
+                "Gold",
+                "Rose Gold",
+                "Red"
+            ]
+        },
+        "display": {
+            "size_inches": 4.7,
+            "resolution": {
+                "width_px": 750,
+                "height_px": 1334
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "10.0",
+            "max_ios_version": "15.8",
+            "chip_name": "Apple A10 Fusion",
+            "fabrication_nm": 16,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 2,
+            "storage_options_gb": [
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1960
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 7 Plus",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 158.2,
+                "width_mm": 77.9,
+                "thickness_mm": 7.3
+            },
+            "weight_g": 188.0,
+            "water_resistance": "IP67",
+            "colors": [
+                "Jet Black",
+                "Black",
+                "Silver",
+                "Gold",
+                "Rose Gold",
+                "Red"
+            ]
+        },
+        "display": {
+            "size_inches": 5.5,
+            "resolution": {
+                "width_px": 1080,
+                "height_px": 1920
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "10.0",
+            "max_ios_version": "15.8",
+            "chip_name": "Apple A10 Fusion",
+            "fabrication_nm": 16,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 3,
+            "storage_options_gb": [
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2900
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 8",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / HSPA / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 138.4,
+                "width_mm": 67.3,
+                "thickness_mm": 7.3
+            },
+            "weight_g": 148.0,
+            "water_resistance": "IP67",
+            "colors": [
+                "Silver",
+                "Space Gray",
+                "Gold",
+                "Red"
+            ]
+        },
+        "display": {
+            "size_inches": 4.7,
+            "resolution": {
+                "width_px": 750,
+                "height_px": 1334
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "11",
+            "max_ios_version": null,
+            "chip_name": "Apple A11 Bionic",
+            "fabrication_nm": 10,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 2,
+            "storage_options_gb": [
+                64,
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1821
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone 8 Plus",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / HSPA / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 158.4,
+                "width_mm": 78.1,
+                "thickness_mm": 7.5
+            },
+            "weight_g": 202.0,
+            "water_resistance": "IP67",
+            "colors": [
+                "Gold",
+                "Space Gray",
+                "Silver",
+                "Red"
+            ]
+        },
+        "display": {
+            "size_inches": 5.5,
+            "resolution": {
+                "width_px": 1080,
+                "height_px": 1920
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "11",
+            "max_ios_version": null,
+            "chip_name": "Apple A11 Bionic",
+            "fabrication_nm": 10,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 3,
+            "storage_options_gb": [
+                64,
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2691
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone Air",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": null,
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 156.2,
+                "width_mm": 74.7,
+                "thickness_mm": 5.6
+            },
+            "weight_g": 165.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Space Black",
+                "Cloud White",
+                "Light Gold",
+                "Sky Blue"
+            ]
+        },
+        "display": {
+            "size_inches": 6.5,
+            "resolution": {
+                "width_px": 1260,
+                "height_px": 2736
+            },
+            "refresh_rate_hz": 120,
+            "peak_brightness_nits": 1000,
+            "ceramic_shield": 2
+        },
+        "platform": {
+            "ios_version": "26",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A19 Pro",
+            "fabrication_nm": 3,
+            "gpu_cores": 5
+        },
+        "memory": {
+            "ram_gb": 12,
+            "storage_options_gb": [
+                256,
+                512,
+                1024
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3149
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 789.83
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone SE",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 123.8,
+                "width_mm": 58.6,
+                "thickness_mm": 7.6
+            },
+            "weight_g": 113.0,
+            "water_resistance": null,
+            "colors": [
+                "Space Gray",
+                "Silver",
+                "Gold",
+                "Rose Gold"
+            ]
+        },
+        "display": {
+            "size_inches": 4.0,
+            "resolution": {
+                "width_px": 640,
+                "height_px": 1136
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": null,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "9.3",
+            "max_ios_version": "15.8",
+            "chip_name": "Apple A9",
+            "fabrication_nm": 14,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 2,
+            "storage_options_gb": [
+                64,
+                128
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1624
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone SE (2020)",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 138.4,
+                "width_mm": 67.3,
+                "thickness_mm": 7.3
+            },
+            "weight_g": 148.0,
+            "water_resistance": "IP67",
+            "colors": [
+                "Black",
+                "White",
+                "Red"
+            ]
+        },
+        "display": {
+            "size_inches": 4.7,
+            "resolution": {
+                "width_px": 750,
+                "height_px": 1334
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "13",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A13 Bionic",
+            "fabrication_nm": 7,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 3,
+            "storage_options_gb": [
+                64,
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 1821
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "proximity",
+                "gyro",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 94.99
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone SE (2022)",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": true,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 138.4,
+                "width_mm": 67.3,
+                "thickness_mm": 7.3
+            },
+            "weight_g": 144.0,
+            "water_resistance": "IP67",
+            "colors": [
+                "Midnight",
+                "Starlight",
+                "Red"
+            ]
+        },
+        "display": {
+            "size_inches": 4.7,
+            "resolution": {
+                "width_px": 750,
+                "height_px": 1334
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "15.4",
+            "max_ios_version": "26.5",
+            "chip_name": "Apple A15 Bionic",
+            "fabrication_nm": 5,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                64,
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2018
+        },
+        "features": {
+            "sensors": [
+                "Fingerprint (front-mounted)",
+                "accelerometer",
+                "proximity",
+                "gyro",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 125.0
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone X",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / HSPA / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": false
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 143.6,
+                "width_mm": 70.9,
+                "thickness_mm": 7.7
+            },
+            "weight_g": 174.0,
+            "water_resistance": "IP67",
+            "colors": [
+                "Space Gray",
+                "Silver"
+            ]
+        },
+        "display": {
+            "size_inches": 5.8,
+            "resolution": {
+                "width_px": 1125,
+                "height_px": 2436
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "11.1",
+            "max_ios_version": null,
+            "chip_name": "Apple A11 Bionic",
+            "fabrication_nm": 10,
+            "gpu_cores": null
+        },
+        "memory": {
+            "ram_gb": 3,
+            "storage_options_gb": [
+                64,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2716
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone XR",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 150.9,
+                "width_mm": 75.7,
+                "thickness_mm": 8.3
+            },
+            "weight_g": 194.0,
+            "water_resistance": "IP67",
+            "colors": [
+                "Black",
+                "Red",
+                "Yellow",
+                "Blue",
+                "Coral",
+                "White"
+            ]
+        },
+        "display": {
+            "size_inches": 6.1,
+            "resolution": {
+                "width_px": 828,
+                "height_px": 1792
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "12",
+            "max_ios_version": "18.7",
+            "chip_name": "Apple A12 Bionic",
+            "fabrication_nm": 7,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 3,
+            "storage_options_gb": [
+                64,
+                128,
+                256
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2942
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": 145.12
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone XS",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 143.6,
+                "width_mm": 70.9,
+                "thickness_mm": 7.7
+            },
+            "weight_g": 177.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Space Gray",
+                "Silver",
+                "Gold"
+            ]
+        },
+        "display": {
+            "size_inches": 5.8,
+            "resolution": {
+                "width_px": 1125,
+                "height_px": 2436
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "12",
+            "max_ios_version": "18.7",
+            "chip_name": "Apple A12 Bionic",
+            "fabrication_nm": 7,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                64,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 2658
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    },
+    {
+        "basic": {
+            "name": "Apple iPhone XS Max",
+            "brand": "Apple",
+            "model": null,
+            "category": "Smartphone",
+            "release_date": null,
+            "status": null
+        },
+        "network": {
+            "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+            "2g": true,
+            "3g": true,
+            "4g": true,
+            "5g": false,
+            "sim": {
+                "sim_type": "Nano-SIM",
+                "esim": true
+            }
+        },
+        "body": {
+            "dimensions": {
+                "height_mm": 157.5,
+                "width_mm": 77.4,
+                "thickness_mm": 7.7
+            },
+            "weight_g": 208.0,
+            "water_resistance": "IP68",
+            "colors": [
+                "Space Gray",
+                "Silver",
+                "Gold"
+            ]
+        },
+        "display": {
+            "size_inches": 6.5,
+            "resolution": {
+                "width_px": 1242,
+                "height_px": 2688
+            },
+            "refresh_rate_hz": null,
+            "peak_brightness_nits": 625,
+            "ceramic_shield": null
+        },
+        "platform": {
+            "ios_version": "12",
+            "max_ios_version": "18.7",
+            "chip_name": "Apple A12 Bionic",
+            "fabrication_nm": 7,
+            "gpu_cores": 4
+        },
+        "memory": {
+            "ram_gb": 4,
+            "storage_options_gb": [
+                64,
+                256,
+                512
+            ],
+            "memory_card_supported": false
+        },
+        "battery": {
+            "capacity_mah": 3174
+        },
+        "features": {
+            "sensors": [
+                "Face ID",
+                "accelerometer",
+                "gyro",
+                "proximity",
+                "compass",
+                "barometer"
+            ]
+        },
+        "price": {
+            "usd": null
+        }
+    }
+]

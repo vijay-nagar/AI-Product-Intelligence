@@ -1,0 +1,77 @@
+{
+    "basic": {
+        "name": "Apple iPad Pro 12.9 (2022)",
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
+    },
+    "network": {
+        "technology": "GSM / HSPA / LTE / 5G",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": true,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
+    },
+    "body": {
+        "dimensions": {
+            "height_mm": 280.6,
+            "width_mm": 214.9,
+            "thickness_mm": 6.4
+        },
+        "weight_g": 682.0,
+        "water_resistance": null,
+        "colors": [
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    "display": {
+        "size_inches": 12.9,
+        "resolution": {
+            "width_px": 2048,
+            "height_px": 2732
+        },
+        "refresh_rate_hz": 120,
+        "peak_brightness_nits": 1000,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": null,
+        "max_ios_version": null,
+        "chip_name": "Apple M2",
+        "fabrication_nm": null,
+        "gpu_cores": 10
+    },
+    "memory": {
+        "ram_gb": 8,
+        "storage_options_gb": [
+            128,
+            256,
+            512,
+            1024,
+            2048
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 10758
+    },
+    "features": {
+        "sensors": [
+            "Face ID",
+            "accelerometer",
+            "gyro",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
+}

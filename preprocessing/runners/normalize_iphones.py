@@ -7,7 +7,15 @@ from preprocessing.helpers import (
     count_json_files,
 )
 
+from preprocessing.runners.normalize_category import run_normalizer
 from preprocessing.normalizers.iphone_normalizer import normalize_product
+
+
+run_normalizer(
+    raw_folder="data/products/iphones/raw",
+    output_folder="data/products/iphones/normalized",
+    normalizer=normalize_product,
+)
 
 RAW_FOLDER = "data/products/iphones/raw"
 

@@ -1,0 +1,74 @@
+{
+    "basic": {
+        "name": "Apple iPad 10.2 (2019)",
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
+    },
+    "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": false,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
+    },
+    "body": {
+        "dimensions": {
+            "height_mm": 250.6,
+            "width_mm": 174.1,
+            "thickness_mm": 7.5
+        },
+        "weight_g": 483.0,
+        "water_resistance": null,
+        "colors": [
+            "Silver",
+            "Gold",
+            "Space Gray"
+        ]
+    },
+    "display": {
+        "size_inches": 10.2,
+        "resolution": {
+            "width_px": 1620,
+            "height_px": 2160
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "13",
+        "max_ios_version": null,
+        "chip_name": "Apple A10 Fusion",
+        "fabrication_nm": 16,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": 3,
+        "storage_options_gb": [
+            128
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 8827
+    },
+    "features": {
+        "sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
+}

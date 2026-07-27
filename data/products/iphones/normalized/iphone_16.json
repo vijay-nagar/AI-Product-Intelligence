@@ -1,59 +1,79 @@
 {
-    "name": "Apple iPhone 16",
-    "brand": "Apple",
-    "display_inches": 6.1,
-    "ram_gb": 8,
-    "storage_options_gb": [
-        128,
-        256,
-        512
-    ],
-    "battery_mah": 3561,
-    "weight_g": 170.0,
-    "price_usd": 574.3,
-    "ios_version": "18",
-    "max_ios_version": "26.5",
-    "chip_name": "Apple A18",
-    "fabrication_nm": 3,
-    "gpu_cores": 5,
-    "refresh_rate_hz": null,
-    "peak_brightness_nits": 1000,
-    "water_resistance": "IP68",
-    "ceramic_shield": null,
-    "dimensions": {
-        "height_mm": 147.6,
-        "width_mm": 71.6,
-        "thickness_mm": 7.8
-    },
-    "resolution": {
-        "width": 1179,
-        "height": 2556
+    "basic": {
+        "name": "Apple iPhone 16",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
         "2g": true,
         "3g": true,
         "4g": true,
-        "5g": true
+        "5g": true,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
     },
-    "sim": {
-        "sim_type": "Nano-SIM",
-        "esim": true
+    "body": {
+        "dimensions": {
+            "height_mm": 147.6,
+            "width_mm": 71.6,
+            "thickness_mm": 7.8
+        },
+        "weight_g": 170.0,
+        "water_resistance": "IP68",
+        "colors": [
+            "Black",
+            "White",
+            "Pink",
+            "Teal",
+            "Ultramarine"
+        ]
     },
-    "colors": [
-        "Black",
-        "White",
-        "Pink",
-        "Teal",
-        "Ultramarine"
-    ],
-    "sensors": [
-        "Face ID",
-        "accelerometer",
-        "gyro",
-        "proximity",
-        "compass",
-        "barometer"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 6.1,
+        "resolution": {
+            "width_px": 1179,
+            "height_px": 2556
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": 1000,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "18",
+        "max_ios_version": "26.5",
+        "chip_name": "Apple A18",
+        "fabrication_nm": 3,
+        "gpu_cores": 5
+    },
+    "memory": {
+        "ram_gb": 8,
+        "storage_options_gb": [
+            128,
+            256,
+            512
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 3561
+    },
+    "features": {
+        "sensors": [
+            "Face ID",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": 574.3
+    }
 }

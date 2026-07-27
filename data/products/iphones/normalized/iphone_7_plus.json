@@ -1,59 +1,79 @@
 {
-    "name": "Apple iPhone 7 Plus",
-    "brand": "Apple",
-    "display_inches": 5.5,
-    "ram_gb": 3,
-    "storage_options_gb": [
-        128,
-        256
-    ],
-    "battery_mah": 2900,
-    "weight_g": 188.0,
-    "price_usd": null,
-    "ios_version": "10.0",
-    "max_ios_version": "15.8",
-    "chip_name": "Apple A10 Fusion",
-    "fabrication_nm": 16,
-    "gpu_cores": null,
-    "refresh_rate_hz": null,
-    "peak_brightness_nits": 625,
-    "water_resistance": "IP67",
-    "ceramic_shield": null,
-    "dimensions": {
-        "height_mm": 158.2,
-        "width_mm": 77.9,
-        "thickness_mm": 7.3
-    },
-    "resolution": {
-        "width": 1080,
-        "height": 1920
+    "basic": {
+        "name": "Apple iPhone 7 Plus",
+        "brand": "Apple",
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
     },
     "network": {
         "technology": "GSM / CDMA / HSPA / EVDO / LTE",
         "2g": true,
         "3g": true,
         "4g": true,
-        "5g": false
+        "5g": false,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": false
+        }
     },
-    "sim": {
-        "sim_type": "Nano-SIM",
-        "esim": false
+    "body": {
+        "dimensions": {
+            "height_mm": 158.2,
+            "width_mm": 77.9,
+            "thickness_mm": 7.3
+        },
+        "weight_g": 188.0,
+        "water_resistance": "IP67",
+        "colors": [
+            "Jet Black",
+            "Black",
+            "Silver",
+            "Gold",
+            "Rose Gold",
+            "Red"
+        ]
     },
-    "colors": [
-        "Jet Black",
-        "Black",
-        "Silver",
-        "Gold",
-        "Rose Gold",
-        "Red"
-    ],
-    "sensors": [
-        "Fingerprint (front-mounted)",
-        "accelerometer",
-        "gyro",
-        "proximity",
-        "compass",
-        "barometer"
-    ],
-    "memory_card_supported": false
+    "display": {
+        "size_inches": 5.5,
+        "resolution": {
+            "width_px": 1080,
+            "height_px": 1920
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": 625,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "10.0",
+        "max_ios_version": "15.8",
+        "chip_name": "Apple A10 Fusion",
+        "fabrication_nm": 16,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": 3,
+        "storage_options_gb": [
+            128,
+            256
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 2900
+    },
+    "features": {
+        "sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "proximity",
+            "compass",
+            "barometer"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
 }

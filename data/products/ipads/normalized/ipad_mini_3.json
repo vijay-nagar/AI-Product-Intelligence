@@ -1,0 +1,74 @@
+{
+    "basic": {
+        "name": "Apple iPad mini 3",
+        "brand": null,
+        "model": null,
+        "category": "Smartphone",
+        "release_date": null,
+        "status": null
+    },
+    "network": {
+        "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2g": true,
+        "3g": true,
+        "4g": true,
+        "5g": false,
+        "sim": {
+            "sim_type": "Nano-SIM",
+            "esim": true
+        }
+    },
+    "body": {
+        "dimensions": {
+            "height_mm": 200.0,
+            "width_mm": 134.7,
+            "thickness_mm": 7.5
+        },
+        "weight_g": 331.0,
+        "water_resistance": null,
+        "colors": [
+            "Space Gray/Black",
+            "Silver/White",
+            "Gold"
+        ]
+    },
+    "display": {
+        "size_inches": 7.9,
+        "resolution": {
+            "width_px": 1536,
+            "height_px": 2048
+        },
+        "refresh_rate_hz": null,
+        "peak_brightness_nits": null,
+        "ceramic_shield": null
+    },
+    "platform": {
+        "ios_version": "8.1",
+        "max_ios_version": null,
+        "chip_name": "Apple A7",
+        "fabrication_nm": 28,
+        "gpu_cores": null
+    },
+    "memory": {
+        "ram_gb": 1,
+        "storage_options_gb": [
+            64,
+            128
+        ],
+        "memory_card_supported": false
+    },
+    "battery": {
+        "capacity_mah": 6470
+    },
+    "features": {
+        "sensors": [
+            "Fingerprint (front-mounted)",
+            "accelerometer",
+            "gyro",
+            "compass"
+        ]
+    },
+    "price": {
+        "usd": null
+    }
+}
